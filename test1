@@ -1,0 +1,76 @@
+[Grid 1]
+
+[Grid 2]
+
+[Machine m1]
+mips 4
+count 2
+numProcs 8
+memSize 8048
+assignTo 1
+
+[Machine m2]
+mips 1
+count 4
+numProcs 4
+memSize 8048
+assignTo 1
+
+[Machine m3]
+mips 5
+count 4
+numProcs 8
+memSize 8048
+assignTo 2
+
+[Machine m4]
+mips 4
+count 2
+numProcs 8
+memSize 8048
+assignTo 2
+
+[User 1]
+
+[User 2]
+
+[User 3]
+
+[User 4]
+
+[Job 1]
+instructions 2
+count 1
+inputSize 12
+outputSize 14
+growthRate None
+growthFactor 2.0
+assignTo 1
+
+[Job 2]
+instructions 3
+count 1
+inputSize 12
+outputSize 2
+growthRate None
+growthFactor 3.0
+assignTo 2
+
+[Job 3]
+instructions 4
+count 1
+inputSize 1024
+outputSize 23
+growthRate None
+growthFactor 4.0
+assignTo 3
+
+[Job 4]
+instructions 7
+count 1
+inputSize 234
+outputSize 12
+growthRate None
+growthFactor 2.0
+assignTo 4
+
