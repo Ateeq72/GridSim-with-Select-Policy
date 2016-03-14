@@ -1,53 +1,65 @@
-u: u1 at 0.0: start processing
 u: Output_GridInformationService at 0.0: waiting for an event
-u: Input_g3 at 0.0: waiting for an event
-u: Input_GridInformationService at 0.0: waiting for an event
 u: Input_g1 at 0.0: waiting for an event
-u: u6 at 0.0: start processing
-u: u4 at 0.0: start processing
-u: u2 at 0.0: start processing
-u: u3 at 0.0: start processing
-u: Input_u4 at 0.0: waiting for an event
-u: g1_ACOANDPSO at 0.0: waiting for an event
-u: Input_g2 at 0.0: waiting for an event
-u: Input_u1 at 0.0: waiting for an event
-u: u5 at 0.0: start processing
 u: Output_g2 at 0.0: waiting for an event
-u: GridInformationService at 0.0: waiting for an event
 u: Output_g1 at 0.0: waiting for an event
-u: Output_g3 at 0.0: waiting for an event
-u: g2_ACOANDPSO at 0.0: waiting for an event
-u: GridSimShutdown at 0.0: waiting for an event
-u: g3_ACOANDPSO at 0.0: waiting for an event
-u: Input_u3 at 0.0: waiting for an event
-u: Input_u6 at 0.0: waiting for an event
-u: Output_u6 at 0.0: waiting for an event
-u: g3 at 0.0: scheduling event type 2 for Output_g3 with delay 0.0
-u: g1 at 0.0: scheduling event type 2 for Output_g1 with delay 0.0
-u: Output_u5 at 0.0: waiting for an event
-u: Output_u4 at 0.0: waiting for an event
-u: Output_u3 at 0.0: waiting for an event
-u: Input_u5 at 0.0: waiting for an event
 u: GridStatistics at 0.0: waiting for an event
-u: Output_u2 at 0.0: waiting for an event
-u: Output_u1 at 0.0: waiting for an event
-u: g1 at 0.0: waiting for an event
-u: g2 at 0.0: scheduling event type 2 for Output_g2 with delay 0.0
-u: g3 at 0.0: waiting for an event
-u: g2 at 0.0: waiting for an event
+u: u8 at 0.0: start processing
+u: u6 at 0.0: start processing
+u: u9 at 0.0: start processing
+u: u4 at 0.0: start processing
+u: u10 at 0.0: start processing
+u: u7 at 0.0: start processing
+u: Input_u9 at 0.0: waiting for an event
+u: Input_u7 at 0.0: waiting for an event
+u: u5 at 0.0: start processing
+u: u3 at 0.0: start processing
+u: u2 at 0.0: start processing
+u: Input_u5 at 0.0: waiting for an event
+u: u1 at 0.0: start processing
+u: Input_u3 at 0.0: waiting for an event
+u: Input_g3 at 0.0: waiting for an event
+u: g2_SpaceShared at 0.0: waiting for an event
+u: g1_SpaceShared at 0.0: waiting for an event
+u: Input_GridInformationService at 0.0: waiting for an event
+u: GridSimShutdown at 0.0: waiting for an event
+u: Input_g2 at 0.0: waiting for an event
 u: Input_u2 at 0.0: waiting for an event
-u: Output_g1 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: g3_SpaceShared at 0.0: waiting for an event
+u: Input_u1 at 0.0: waiting for an event
+u: Input_u4 at 0.0: waiting for an event
+u: Input_u6 at 0.0: waiting for an event
+u: Input_u8 at 0.0: waiting for an event
+u: Input_u10 at 0.0: waiting for an event
+u: GridInformationService at 0.0: waiting for an event
+u: Output_u1 at 0.0: waiting for an event
+u: Output_g3 at 0.0: waiting for an event
+u: Output_u4 at 0.0: waiting for an event
+u: Output_u2 at 0.0: waiting for an event
+u: Output_u6 at 0.0: waiting for an event
+u: Output_u3 at 0.0: waiting for an event
+u: Output_u5 at 0.0: waiting for an event
+u: Output_u7 at 0.0: waiting for an event
+u: Output_u9 at 0.0: waiting for an event
+u: Output_u8 at 0.0: waiting for an event
+u: g3 at 0.0: scheduling event type 2 for Output_g3 with delay 0.0
+u: g3 at 0.0: waiting for an event
+u: g1 at 0.0: scheduling event type 2 for Output_g1 with delay 0.0
+u: g2 at 0.0: scheduling event type 2 for Output_g2 with delay 0.0
+u: g1 at 0.0: waiting for an event
+u: g2 at 0.0: waiting for an event
+u: Output_u10 at 0.0: waiting for an event
 u: Output_g2 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_g1 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_g2 at 0.0: start processing
-u: Output_g3 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_g1 at 0.0: start processing
+u: Output_g3 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_g3 at 0.0: start processing
 u: Input_GridInformationService at 0.0: start processing
 u: Input_GridInformationService at 0.17142857142857143: scheduling event type 2 for GridInformationService with delay 0.0
 u: Input_GridInformationService at 0.17142857142857143: selected event type 2 (event time was 0.0)
 u: Input_GridInformationService at 0.17142857142857143: start processing
-u: Output_g2 at 0.17142857142857143: waiting for an event
 u: Output_g1 at 0.17142857142857143: waiting for an event
+u: Output_g2 at 0.17142857142857143: waiting for an event
 u: Output_g3 at 0.17142857142857143: waiting for an event
 u: GridInformationService at 0.17142857142857143: waiting for an event
 u: Input_GridInformationService at 0.34285714285714286: scheduling event type 2 for GridInformationService with delay 0.0
@@ -57,405 +69,858 @@ u: GridInformationService at 0.34285714285714286: waiting for an event
 u: Input_GridInformationService at 0.5142857142857142: scheduling event type 2 for GridInformationService with delay 0.0
 u: Input_GridInformationService at 0.5142857142857142: waiting for an event
 u: GridInformationService at 0.5142857142857142: waiting for an event
-u: u3 at 1.0: scheduling event type 6 for g1 with delay 0.0
-u: u1 at 1.0: scheduling event type 6 for g1 with delay 0.0
-u: u3 at 1.0: waiting for an event
-u: u5 at 1.0: scheduling event type 6 for g1 with delay 0.0
-u: u6 at 1.0: scheduling event type 6 for g1 with delay 0.0
-u: u5 at 1.0: waiting for an event
+u: u1 at 1.0: scheduling event type 6 for g2 with delay 0.0
 u: u1 at 1.0: waiting for an event
-u: u4 at 1.0: scheduling event type 6 for g1 with delay 0.0
-u: u4 at 1.0: waiting for an event
-u: u2 at 1.0: scheduling event type 6 for g1 with delay 0.0
-u: u6 at 1.0: waiting for an event
+u: u2 at 1.0: scheduling event type 6 for g2 with delay 0.0
 u: u2 at 1.0: waiting for an event
-u: g1 at 1.0: scheduling event type 6 for Output_g1 with delay 0.0
-u: g1 at 1.0: selected event type 6 (event time was 1.0)
-u: g1 at 1.0: scheduling event type 6 for Output_g1 with delay 0.0
-u: g1 at 1.0: selected event type 6 (event time was 1.0)
-u: g1 at 1.0: scheduling event type 6 for Output_g1 with delay 0.0
-u: g1 at 1.0: selected event type 6 (event time was 1.0)
-u: g1 at 1.0: scheduling event type 6 for Output_g1 with delay 0.0
-u: g1 at 1.0: selected event type 6 (event time was 1.0)
-u: g1 at 1.0: scheduling event type 6 for Output_g1 with delay 0.0
-u: g1 at 1.0: selected event type 6 (event time was 1.0)
-u: g1 at 1.0: scheduling event type 6 for Output_g1 with delay 0.0
-u: g1 at 1.0: waiting for an event
-u: Output_g1 at 1.0: scheduling event type 6 for Input_u3 with delay 0.0
-u: Output_g1 at 1.0: start processing
-u: Input_u3 at 1.0: start processing
-u: Output_g1 at 53.48: selected event type 6 (event time was 1.0)
-u: Input_u3 at 53.48: scheduling event type 6 for u3 with delay 0.0
+u: u3 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u3 at 1.0: waiting for an event
+u: u5 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u5 at 1.0: waiting for an event
+u: u4 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u4 at 1.0: waiting for an event
+u: u6 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u6 at 1.0: waiting for an event
+u: u7 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u7 at 1.0: waiting for an event
+u: u9 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u9 at 1.0: waiting for an event
+u: u8 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u8 at 1.0: waiting for an event
+u: u10 at 1.0: scheduling event type 6 for g2 with delay 0.0
+u: u10 at 1.0: waiting for an event
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: selected event type 6 (event time was 1.0)
+u: g2 at 1.0: scheduling event type 6 for Output_g2 with delay 0.0
+u: g2 at 1.0: waiting for an event
+u: Output_g2 at 1.0: scheduling event type 6 for Input_u1 with delay 0.0
+u: Output_g2 at 1.0: start processing
+u: Input_u1 at 1.0: start processing
+u: Output_g2 at 53.48: selected event type 6 (event time was 1.0)
+u: Output_g2 at 53.48: scheduling event type 6 for Input_u2 with delay 0.0
+u: Output_g2 at 53.48: start processing
+u: Input_u1 at 53.48: scheduling event type 6 for u1 with delay 0.0
+u: Input_u1 at 53.48: waiting for an event
+u: Input_u2 at 53.48: start processing
+u: u1 at 53.48: scheduling event type 10 for GridStatistics with delay 0.0
+u: u1 at 53.48: scheduling event type 6 for g1 with delay 0.0
+u: u1 at 53.48: waiting for an event
+u: g1 at 53.48: scheduling event type 6 for Output_g1 with delay 0.0
+u: g1 at 53.48: waiting for an event
+u: GridStatistics at 53.48: waiting for an event
 u: Output_g1 at 53.48: scheduling event type 6 for Input_u1 with delay 0.0
-u: Input_u3 at 53.48: waiting for an event
 u: Output_g1 at 53.48: start processing
 u: Input_u1 at 53.48: start processing
-u: u3 at 53.48: scheduling event type 10 for GridStatistics with delay 0.0
-u: u3 at 53.48: scheduling event type 6 for g2 with delay 0.0
-u: u3 at 53.48: waiting for an event
-u: g2 at 53.48: scheduling event type 6 for Output_g2 with delay 0.0
-u: g2 at 53.48: waiting for an event
-u: GridStatistics at 53.48: waiting for an event
-u: Output_g2 at 53.48: scheduling event type 6 for Input_u3 with delay 0.0
-u: Output_g2 at 53.48: start processing
-u: Input_u3 at 53.48: start processing
-u: Output_g1 at 105.96: selected event type 6 (event time was 1.0)
-u: Output_g1 at 105.96: scheduling event type 6 for Input_u5 with delay 0.0
-u: Input_u3 at 105.96: scheduling event type 6 for u3 with delay 0.0
+u: Output_g2 at 105.96: selected event type 6 (event time was 1.0)
+u: Output_g1 at 105.96: waiting for an event
+u: Input_u2 at 105.96: scheduling event type 6 for u2 with delay 0.0
+u: Input_u2 at 105.96: waiting for an event
 u: Input_u1 at 105.96: scheduling event type 6 for u1 with delay 0.0
-u: Output_g1 at 105.96: start processing
-u: Output_g2 at 105.96: waiting for an event
 u: Input_u1 at 105.96: waiting for an event
-u: Input_u3 at 105.96: waiting for an event
-u: Input_u5 at 105.96: start processing
-u: u3 at 105.96: scheduling event type 10 for GridStatistics with delay 0.0
-u: u3 at 105.96: scheduling event type 6 for g3 with delay 0.0
-u: u1 at 105.96: scheduling event type 10 for GridStatistics with delay 0.0
-u: u1 at 105.96: scheduling event type 6 for g2 with delay 0.0
-u: u1 at 105.96: waiting for an event
-u: u3 at 105.96: waiting for an event
-u: g2 at 105.96: scheduling event type 6 for Output_g2 with delay 0.0
-u: g3 at 105.96: scheduling event type 6 for Output_g3 with delay 0.0
-u: g3 at 105.96: waiting for an event
-u: GridStatistics at 105.96: selected event type 10 (event time was 105.96)
-u: g2 at 105.96: waiting for an event
-u: GridStatistics at 105.96: waiting for an event
-u: Output_g2 at 105.96: scheduling event type 6 for Input_u1 with delay 0.0
-u: Output_g3 at 105.96: scheduling event type 6 for Input_u3 with delay 0.0
+u: Output_g2 at 105.96: scheduling event type 6 for Input_u3 with delay 0.0
 u: Output_g2 at 105.96: start processing
+u: u1 at 105.96: scheduling event type 10 for GridStatistics with delay 0.0
+u: u1 at 105.96: scheduling event type 6 for g3 with delay 0.0
+u: u2 at 105.96: scheduling event type 10 for GridStatistics with delay 0.0
+u: u2 at 105.96: scheduling event type 6 for g1 with delay 0.0
+u: Input_u3 at 105.96: start processing
+u: u1 at 105.96: waiting for an event
+u: u2 at 105.96: waiting for an event
+u: GridStatistics at 105.96: selected event type 10 (event time was 105.96)
+u: GridStatistics at 105.96: waiting for an event
+u: g3 at 105.96: scheduling event type 6 for Output_g3 with delay 0.0
+u: g1 at 105.96: scheduling event type 6 for Output_g1 with delay 0.0
+u: g1 at 105.96: waiting for an event
+u: g3 at 105.96: waiting for an event
+u: Output_g1 at 105.96: scheduling event type 6 for Input_u2 with delay 0.0
+u: Output_g1 at 105.96: start processing
+u: Output_g3 at 105.96: scheduling event type 6 for Input_u1 with delay 0.0
 u: Output_g3 at 105.96: start processing
 u: Input_u1 at 105.96: start processing
-u: Input_u3 at 105.96: start processing
-u: Output_g1 at 158.44: selected event type 6 (event time was 1.0)
-u: Input_u3 at 158.44: scheduling event type 6 for u3 with delay 0.0
-u: Output_g1 at 158.44: scheduling event type 6 for Input_u6 with delay 0.0
-u: Output_g1 at 158.44: start processing
-u: Input_u3 at 158.44: waiting for an event
-u: Input_u5 at 158.44: scheduling event type 6 for u5 with delay 0.0
-u: Output_g2 at 158.44: waiting for an event
-u: Input_u5 at 158.44: waiting for an event
+u: Input_u2 at 105.96: start processing
+u: Output_g1 at 158.44: waiting for an event
 u: Output_g3 at 158.44: waiting for an event
+u: Input_u2 at 158.44: scheduling event type 6 for u2 with delay 0.0
+u: Input_u2 at 158.44: waiting for an event
+u: Input_u3 at 158.44: scheduling event type 6 for u3 with delay 0.0
+u: Output_g2 at 158.44: selected event type 6 (event time was 1.0)
 u: Input_u1 at 158.44: scheduling event type 6 for u1 with delay 0.0
 u: Input_u1 at 158.44: waiting for an event
-u: u1 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
-u: u1 at 158.44: scheduling event type 6 for g3 with delay 0.0
-u: u1 at 158.44: waiting for an event
-u: u3 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
-u: u3 at 158.44: scheduling event type 21 for Output_u3 with delay 0.0
-u: u3 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
-u: u3 at 158.44: waiting for an event
-u: u5 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
-u: u5 at 158.44: scheduling event type 6 for g2 with delay 0.0
-u: u5 at 158.44: waiting for an event
-u: Input_u6 at 158.44: start processing
-u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
-u: g2 at 158.44: scheduling event type 6 for Output_g2 with delay 0.0
-u: Output_u3 at 158.44: scheduling event type 21 for Input_g3 with delay 0.0
-u: g3 at 158.44: scheduling event type 6 for Output_g3 with delay 0.0
-u: g3 at 158.44: waiting for an event
-u: g2 at 158.44: waiting for an event
-u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
-u: Output_u3 at 158.44: start processing
-u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
-u: GridStatistics at 158.44: waiting for an event
+u: Input_u3 at 158.44: waiting for an event
 u: Output_g2 at 158.44: scheduling event type 6 for Input_u5 with delay 0.0
 u: Output_g2 at 158.44: start processing
-u: Input_g3 at 158.44: start processing
-u: Output_g3 at 158.44: scheduling event type 6 for Input_u1 with delay 0.0
-u: Output_g3 at 158.44: start processing
+u: u1 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 158.44: scheduling event type 6 for g1 with delay 0.0
+u: u3 at 158.44: waiting for an event
+u: u2 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
+u: u2 at 158.44: scheduling event type 6 for g3 with delay 0.0
+u: u1 at 158.44: scheduling event type 21 for Output_u1 with delay 0.0
+u: u1 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
 u: Input_u5 at 158.44: start processing
-u: Input_u1 at 158.44: start processing
-u: Input_g3 at 159.64: scheduling event type 21 for g3 with delay 0.0
-u: Input_g3 at 159.64: waiting for an event
-u: Output_u3 at 159.64: waiting for an event
-u: g3_ACOANDPSO at 159.64: scheduling event type 0 for g3_ACOANDPSO with delay 420.5
-u: g3 at 159.64: waiting for an event
-u: Output_g1 at 210.92: selected event type 6 (event time was 1.0)
+u: u1 at 158.44: scheduling event type 21 for Output_u1 with delay 0.0
+u: u2 at 158.44: waiting for an event
+u: u1 at 158.44: scheduling event type 10 for GridStatistics with delay 0.0
+u: u1 at 158.44: waiting for an event
+u: g1 at 158.44: scheduling event type 6 for Output_g1 with delay 0.0
+u: g3 at 158.44: scheduling event type 6 for Output_g3 with delay 0.0
+u: g3 at 158.44: waiting for an event
+u: g1 at 158.44: waiting for an event
+u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
+u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
+u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
+u: GridStatistics at 158.44: selected event type 10 (event time was 158.44)
+u: GridStatistics at 158.44: waiting for an event
+u: Output_u1 at 158.44: scheduling event type 21 for Input_g3 with delay 0.0
+u: Output_u1 at 158.44: start processing
+u: Output_g1 at 158.44: scheduling event type 6 for Input_u3 with delay 0.0
+u: Input_g3 at 158.44: start processing
+u: Output_g3 at 158.44: scheduling event type 6 for Input_u2 with delay 0.0
+u: Output_g1 at 158.44: start processing
+u: Output_g3 at 158.44: start processing
+u: Input_u2 at 158.44: start processing
+u: Input_u3 at 158.44: start processing
+u: Input_g3 at 159.72: scheduling event type 21 for g3 with delay 0.0
+u: Input_g3 at 159.72: waiting for an event
+u: Output_u1 at 159.72: selected event type 21 (event time was 158.44)
+u: Output_u1 at 159.72: scheduling event type 21 for Input_g3 with delay 0.0
+u: Output_u1 at 159.72: start processing
+u: Input_g3 at 159.72: start processing
+u: g3_SpaceShared at 159.72: scheduling event type 0 for g3_SpaceShared with delay 345.0
+u: g3 at 159.72: waiting for an event
+u: Input_g3 at 162.92: scheduling event type 21 for g3 with delay 0.0
+u: Input_g3 at 162.92: waiting for an event
+u: Output_u1 at 162.92: waiting for an event
+u: g3_SpaceShared at 162.92: scheduling event type 0 for g3_SpaceShared with delay 349.0
+u: g3 at 162.92: waiting for an event
+u: Output_g1 at 210.92: waiting for an event
+u: Input_u2 at 210.92: scheduling event type 6 for u2 with delay 0.0
+u: Input_u2 at 210.92: waiting for an event
+u: Output_g2 at 210.92: selected event type 6 (event time was 1.0)
 u: Input_u5 at 210.92: scheduling event type 6 for u5 with delay 0.0
-u: Input_u6 at 210.92: scheduling event type 6 for u6 with delay 0.0
+u: Output_g2 at 210.92: scheduling event type 6 for Input_u4 with delay 0.0
+u: Input_u3 at 210.92: scheduling event type 6 for u3 with delay 0.0
+u: Input_u3 at 210.92: waiting for an event
 u: Output_g3 at 210.92: waiting for an event
-u: Input_u1 at 210.92: scheduling event type 6 for u1 with delay 0.0
-u: Input_u1 at 210.92: waiting for an event
-u: Input_u6 at 210.92: waiting for an event
-u: Output_g1 at 210.92: scheduling event type 6 for Input_u4 with delay 0.0
-u: Input_u5 at 210.92: waiting for an event
-u: Output_g2 at 210.92: waiting for an event
-u: Output_g1 at 210.92: start processing
-u: Input_u4 at 210.92: start processing
-u: u1 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
-u: u1 at 210.92: scheduling event type 21 for Output_u1 with delay 0.0
-u: u1 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
-u: u1 at 210.92: waiting for an event
-u: u6 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
-u: u6 at 210.92: scheduling event type 6 for g2 with delay 0.0
-u: u6 at 210.92: waiting for an event
-u: u5 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
-u: u5 at 210.92: scheduling event type 6 for g3 with delay 0.0
-u: u5 at 210.92: waiting for an event
-u: Output_u1 at 210.92: scheduling event type 21 for Input_g1 with delay 0.0
-u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
-u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
-u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
-u: Output_u1 at 210.92: start processing
-u: g2 at 210.92: scheduling event type 6 for Output_g2 with delay 0.0
-u: g3 at 210.92: scheduling event type 6 for Output_g3 with delay 0.0
-u: g3 at 210.92: waiting for an event
-u: GridStatistics at 210.92: waiting for an event
-u: g2 at 210.92: waiting for an event
-u: Input_g1 at 210.92: start processing
-u: Output_g3 at 210.92: scheduling event type 6 for Input_u5 with delay 0.0
-u: Output_g3 at 210.92: start processing
-u: Output_g2 at 210.92: scheduling event type 6 for Input_u6 with delay 0.0
 u: Output_g2 at 210.92: start processing
+u: Input_u5 at 210.92: waiting for an event
+u: Input_u4 at 210.92: start processing
+u: u2 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
+u: u5 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 210.92: scheduling event type 6 for g3 with delay 0.0
+u: u5 at 210.92: scheduling event type 6 for g1 with delay 0.0
+u: u5 at 210.92: waiting for an event
+u: u2 at 210.92: scheduling event type 21 for Output_u2 with delay 0.0
+u: u2 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
+u: u2 at 210.92: scheduling event type 21 for Output_u2 with delay 0.0
+u: u2 at 210.92: scheduling event type 10 for GridStatistics with delay 0.0
+u: u2 at 210.92: waiting for an event
+u: u3 at 210.92: waiting for an event
+u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
+u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
+u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
+u: GridStatistics at 210.92: selected event type 10 (event time was 210.92)
+u: GridStatistics at 210.92: waiting for an event
+u: g3 at 210.92: scheduling event type 6 for Output_g3 with delay 0.0
+u: g1 at 210.92: scheduling event type 6 for Output_g1 with delay 0.0
+u: g1 at 210.92: waiting for an event
+u: g3 at 210.92: waiting for an event
+u: Output_u2 at 210.92: scheduling event type 21 for Input_g1 with delay 0.0
+u: Output_u2 at 210.92: start processing
+u: Input_g1 at 210.92: start processing
+u: Output_g1 at 210.92: scheduling event type 6 for Input_u5 with delay 0.0
+u: Output_g1 at 210.92: start processing
+u: Output_g3 at 210.92: scheduling event type 6 for Input_u3 with delay 0.0
+u: Output_g3 at 210.92: start processing
+u: Input_u3 at 210.92: start processing
 u: Input_u5 at 210.92: start processing
-u: Input_u6 at 210.92: start processing
-u: Input_g1 at 212.2: scheduling event type 21 for g1 with delay 0.0
-u: Input_g1 at 212.2: waiting for an event
-u: Output_u1 at 212.2: waiting for an event
-u: g1_ACOANDPSO at 212.2: scheduling event type 0 for g1_ACOANDPSO with delay 344.6666666666667
-u: g1 at 212.2: waiting for an event
-u: Output_g1 at 263.4: selected event type 6 (event time was 1.0)
-u: Output_g3 at 263.4: waiting for an event
-u: Output_g1 at 263.4: scheduling event type 6 for Input_u2 with delay 0.0
-u: Output_g1 at 263.4: start processing
-u: Output_g2 at 263.4: waiting for an event
-u: Input_u6 at 263.4: scheduling event type 6 for u6 with delay 0.0
-u: Input_u5 at 263.4: scheduling event type 6 for u5 with delay 0.0
-u: Input_u6 at 263.4: waiting for an event
+u: Input_g1 at 212.35999999999999: scheduling event type 21 for g1 with delay 0.0
+u: Input_g1 at 212.35999999999999: waiting for an event
+u: Output_u2 at 212.35999999999999: selected event type 21 (event time was 210.92)
+u: Output_u2 at 212.35999999999999: scheduling event type 21 for Input_g3 with delay 0.0
+u: Output_u2 at 212.35999999999999: start processing
+u: Input_g3 at 212.35999999999999: start processing
+u: g1_SpaceShared at 212.35999999999999: scheduling event type 0 for g1_SpaceShared with delay 514.0
+u: g1 at 212.35999999999999: waiting for an event
+u: Input_g3 at 214.76: scheduling event type 21 for g3 with delay 0.0
+u: Output_u2 at 214.76: waiting for an event
+u: Input_g3 at 214.76: waiting for an event
+u: g3_SpaceShared at 214.76: scheduling event type 0 for g3_SpaceShared with delay 514.0
+u: g3 at 214.76: waiting for an event
+u: Output_g1 at 263.4: waiting for an event
+u: Output_g2 at 263.4: selected event type 6 (event time was 1.0)
+u: Output_g2 at 263.4: scheduling event type 6 for Input_u6 with delay 0.0
+u: Output_g2 at 263.4: start processing
 u: Input_u4 at 263.4: scheduling event type 6 for u4 with delay 0.0
-u: Input_u4 at 263.4: waiting for an event
+u: Input_u3 at 263.4: scheduling event type 6 for u3 with delay 0.0
+u: Output_g3 at 263.4: waiting for an event
+u: Input_u5 at 263.4: scheduling event type 6 for u5 with delay 0.0
+u: Input_u3 at 263.4: waiting for an event
 u: Input_u5 at 263.4: waiting for an event
-u: Input_u2 at 263.4: start processing
-u: u4 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
-u: u4 at 263.4: scheduling event type 6 for g2 with delay 0.0
-u: u4 at 263.4: waiting for an event
-u: u6 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
-u: u6 at 263.4: scheduling event type 6 for g3 with delay 0.0
-u: u6 at 263.4: waiting for an event
+u: Input_u4 at 263.4: waiting for an event
+u: Input_u6 at 263.4: start processing
+u: u3 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
 u: u5 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
-u: u5 at 263.4: scheduling event type 21 for Output_u5 with delay 0.0
-u: u5 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
+u: u5 at 263.4: scheduling event type 6 for g3 with delay 0.0
 u: u5 at 263.4: waiting for an event
+u: u4 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
+u: u4 at 263.4: scheduling event type 6 for g1 with delay 0.0
+u: u4 at 263.4: waiting for an event
+u: u3 at 263.4: scheduling event type 21 for Output_u3 with delay 0.0
+u: u3 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 263.4: scheduling event type 21 for Output_u3 with delay 0.0
+u: u3 at 263.4: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 263.4: waiting for an event
+u: g1 at 263.4: scheduling event type 6 for Output_g1 with delay 0.0
 u: GridStatistics at 263.4: selected event type 10 (event time was 263.4)
-u: g2 at 263.4: scheduling event type 6 for Output_g2 with delay 0.0
-u: g2 at 263.4: waiting for an event
-u: Output_u5 at 263.4: scheduling event type 21 for Input_g2 with delay 0.0
 u: GridStatistics at 263.4: selected event type 10 (event time was 263.4)
-u: Output_u5 at 263.4: start processing
 u: GridStatistics at 263.4: selected event type 10 (event time was 263.4)
+u: GridStatistics at 263.4: selected event type 10 (event time was 263.4)
+u: Output_u3 at 263.4: scheduling event type 21 for Input_g3 with delay 0.0
+u: GridStatistics at 263.4: waiting for an event
+u: Output_u3 at 263.4: start processing
+u: g1 at 263.4: waiting for an event
 u: g3 at 263.4: scheduling event type 6 for Output_g3 with delay 0.0
 u: g3 at 263.4: waiting for an event
-u: GridStatistics at 263.4: waiting for an event
-u: Input_g2 at 263.4: start processing
-u: Output_g2 at 263.4: scheduling event type 6 for Input_u4 with delay 0.0
-u: Output_g2 at 263.4: start processing
-u: Output_g3 at 263.4: scheduling event type 6 for Input_u6 with delay 0.0
+u: Output_g1 at 263.4: scheduling event type 6 for Input_u4 with delay 0.0
+u: Input_g3 at 263.4: start processing
+u: Output_g3 at 263.4: scheduling event type 6 for Input_u5 with delay 0.0
+u: Output_g1 at 263.4: start processing
 u: Output_g3 at 263.4: start processing
-u: Input_u6 at 263.4: start processing
+u: Input_u5 at 263.4: start processing
 u: Input_u4 at 263.4: start processing
-u: Input_g2 at 264.84: scheduling event type 21 for g2 with delay 0.0
-u: Input_g2 at 264.84: waiting for an event
-u: Output_u5 at 264.84: waiting for an event
-u: g2_ACOANDPSO at 264.84: scheduling event type 0 for g2_ACOANDPSO with delay 511.3333333333333
-u: g2 at 264.84: waiting for an event
+u: Input_g3 at 264.59999999999997: scheduling event type 21 for g3 with delay 0.0
+u: Output_u3 at 264.59999999999997: selected event type 21 (event time was 263.4)
+u: Input_g3 at 264.59999999999997: waiting for an event
+u: Output_u3 at 264.59999999999997: scheduling event type 21 for Input_g3 with delay 0.0
+u: Output_u3 at 264.59999999999997: start processing
+u: Input_g3 at 264.59999999999997: start processing
+u: g3_SpaceShared at 264.59999999999997: scheduling event type 0 for g3_SpaceShared with delay 421.0
+u: g3 at 264.59999999999997: waiting for an event
+u: Input_g3 at 269.4: scheduling event type 21 for g3 with delay 0.0
+u: Output_u3 at 269.4: waiting for an event
+u: Input_g3 at 269.4: waiting for an event
+u: g3_SpaceShared at 269.4: scheduling event type 0 for g3_SpaceShared with delay 519.0
+u: g3 at 269.4: waiting for an event
 u: Output_g1 at 315.88: waiting for an event
-u: Input_u2 at 315.88: scheduling event type 6 for u2 with delay 0.0
-u: Input_u2 at 315.88: waiting for an event
-u: Output_g2 at 315.88: waiting for an event
-u: Input_u4 at 315.88: scheduling event type 6 for u4 with delay 0.0
-u: Input_u6 at 315.88: scheduling event type 6 for u6 with delay 0.0
+u: Output_g2 at 315.88: selected event type 6 (event time was 1.0)
+u: Output_g2 at 315.88: scheduling event type 6 for Input_u7 with delay 0.0
+u: Output_g2 at 315.88: start processing
 u: Output_g3 at 315.88: waiting for an event
+u: Input_u4 at 315.88: scheduling event type 6 for u4 with delay 0.0
 u: Input_u4 at 315.88: waiting for an event
+u: Input_u5 at 315.88: scheduling event type 6 for u5 with delay 0.0
+u: Input_u6 at 315.88: scheduling event type 6 for u6 with delay 0.0
+u: Input_u5 at 315.88: waiting for an event
 u: Input_u6 at 315.88: waiting for an event
-u: u2 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
-u: u2 at 315.88: scheduling event type 6 for g2 with delay 0.0
+u: Input_u7 at 315.88: start processing
 u: u4 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
 u: u4 at 315.88: scheduling event type 6 for g3 with delay 0.0
+u: u6 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 315.88: scheduling event type 6 for g1 with delay 0.0
+u: u5 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
 u: u4 at 315.88: waiting for an event
-u: u2 at 315.88: waiting for an event
-u: u6 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
-u: u6 at 315.88: scheduling event type 21 for Output_u6 with delay 0.0
-u: u6 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
 u: u6 at 315.88: waiting for an event
+u: u5 at 315.88: scheduling event type 21 for Output_u5 with delay 0.0
+u: u5 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
+u: u5 at 315.88: scheduling event type 21 for Output_u5 with delay 0.0
+u: u5 at 315.88: scheduling event type 10 for GridStatistics with delay 0.0
+u: u5 at 315.88: waiting for an event
+u: g1 at 315.88: scheduling event type 6 for Output_g1 with delay 0.0
+u: GridStatistics at 315.88: selected event type 10 (event time was 315.88)
+u: g1 at 315.88: waiting for an event
 u: GridStatistics at 315.88: selected event type 10 (event time was 315.88)
 u: g3 at 315.88: scheduling event type 6 for Output_g3 with delay 0.0
 u: GridStatistics at 315.88: selected event type 10 (event time was 315.88)
 u: g3 at 315.88: waiting for an event
 u: GridStatistics at 315.88: selected event type 10 (event time was 315.88)
-u: g2 at 315.88: scheduling event type 6 for Output_g2 with delay 0.0
+u: Output_u5 at 315.88: scheduling event type 21 for Input_g3 with delay 0.0
 u: GridStatistics at 315.88: waiting for an event
-u: Output_u6 at 315.88: scheduling event type 21 for Input_g3 with delay 0.0
-u: g2 at 315.88: waiting for an event
-u: Output_u6 at 315.88: start processing
-u: Output_g2 at 315.88: scheduling event type 6 for Input_u2 with delay 0.0
+u: Output_u5 at 315.88: start processing
 u: Input_g3 at 315.88: start processing
 u: Output_g3 at 315.88: scheduling event type 6 for Input_u4 with delay 0.0
-u: Output_g2 at 315.88: start processing
 u: Output_g3 at 315.88: start processing
-u: Input_u2 at 315.88: start processing
+u: Output_g1 at 315.88: scheduling event type 6 for Input_u6 with delay 0.0
+u: Output_g1 at 315.88: start processing
 u: Input_u4 at 315.88: start processing
-u: Input_g3 at 317.4: scheduling event type 21 for g3 with delay 0.0
-u: Input_g3 at 317.4: waiting for an event
-u: Output_u6 at 317.4: waiting for an event
-u: g3_ACOANDPSO at 317.4: scheduling event type 0 for g3_ACOANDPSO with delay 262.74
-u: g3 at 317.4: waiting for an event
-u: Output_g2 at 368.36: waiting for an event
-u: Input_u2 at 368.36: scheduling event type 6 for u2 with delay 0.0
-u: Input_u2 at 368.36: waiting for an event
+u: Input_u6 at 315.88: start processing
+u: Input_g3 at 317.32: scheduling event type 21 for g3 with delay 0.0
+u: Input_g3 at 317.32: waiting for an event
+u: Output_u5 at 317.32: selected event type 21 (event time was 315.88)
+u: Output_u5 at 317.32: scheduling event type 21 for Input_g2 with delay 0.0
+u: Output_u5 at 317.32: start processing
+u: Input_g2 at 317.32: start processing
+u: g3_SpaceShared at 317.32: scheduling event type 0 for g3_SpaceShared with delay 512.0
+u: g3 at 317.32: waiting for an event
+u: Input_g2 at 319.71999999999997: scheduling event type 21 for g2 with delay 0.0
+u: Input_g2 at 319.71999999999997: waiting for an event
+u: Output_u5 at 319.71999999999997: waiting for an event
+u: g2_SpaceShared at 319.71999999999997: scheduling event type 0 for g2_SpaceShared with delay 682.0
+u: g2 at 319.71999999999997: waiting for an event
+u: Output_g1 at 368.36: waiting for an event
+u: Output_g2 at 368.36: selected event type 6 (event time was 1.0)
+u: Output_g2 at 368.36: scheduling event type 6 for Input_u9 with delay 0.0
+u: Output_g2 at 368.36: start processing
 u: Output_g3 at 368.36: waiting for an event
 u: Input_u4 at 368.36: scheduling event type 6 for u4 with delay 0.0
 u: Input_u4 at 368.36: waiting for an event
-u: u2 at 368.36: scheduling event type 10 for GridStatistics with delay 0.0
-u: u2 at 368.36: scheduling event type 6 for g3 with delay 0.0
+u: Input_u6 at 368.36: scheduling event type 6 for u6 with delay 0.0
+u: Input_u7 at 368.36: scheduling event type 6 for u7 with delay 0.0
+u: Input_u6 at 368.36: waiting for an event
+u: Input_u7 at 368.36: waiting for an event
+u: Input_u9 at 368.36: start processing
 u: u4 at 368.36: scheduling event type 10 for GridStatistics with delay 0.0
-u: u2 at 368.36: waiting for an event
+u: u7 at 368.36: scheduling event type 10 for GridStatistics with delay 0.0
+u: u7 at 368.36: scheduling event type 6 for g1 with delay 0.0
+u: u7 at 368.36: waiting for an event
+u: u6 at 368.36: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 368.36: scheduling event type 6 for g3 with delay 0.0
+u: u4 at 368.36: scheduling event type 21 for Output_u4 with delay 0.0
+u: u6 at 368.36: waiting for an event
+u: u4 at 368.36: scheduling event type 10 for GridStatistics with delay 0.0
 u: u4 at 368.36: scheduling event type 21 for Output_u4 with delay 0.0
 u: u4 at 368.36: scheduling event type 10 for GridStatistics with delay 0.0
 u: u4 at 368.36: waiting for an event
-u: g3 at 368.36: scheduling event type 6 for Output_g3 with delay 0.0
-u: Output_u4 at 368.36: scheduling event type 21 for Input_g2 with delay 0.0
 u: GridStatistics at 368.36: selected event type 10 (event time was 368.36)
-u: Output_u4 at 368.36: start processing
+u: g1 at 368.36: scheduling event type 6 for Output_g1 with delay 0.0
+u: GridStatistics at 368.36: selected event type 10 (event time was 368.36)
+u: g1 at 368.36: waiting for an event
+u: GridStatistics at 368.36: selected event type 10 (event time was 368.36)
+u: g3 at 368.36: scheduling event type 6 for Output_g3 with delay 0.0
 u: GridStatistics at 368.36: selected event type 10 (event time was 368.36)
 u: g3 at 368.36: waiting for an event
 u: GridStatistics at 368.36: waiting for an event
-u: Input_g2 at 368.36: start processing
-u: Output_g3 at 368.36: scheduling event type 6 for Input_u2 with delay 0.0
+u: Output_u4 at 368.36: scheduling event type 21 for Input_g1 with delay 0.0
+u: Output_u4 at 368.36: start processing
+u: Input_g1 at 368.36: start processing
+u: Output_g1 at 368.36: scheduling event type 6 for Input_u7 with delay 0.0
+u: Output_g1 at 368.36: start processing
+u: Output_g3 at 368.36: scheduling event type 6 for Input_u6 with delay 0.0
 u: Output_g3 at 368.36: start processing
-u: Input_u2 at 368.36: start processing
-u: Input_g2 at 369.72: scheduling event type 21 for g2 with delay 0.0
-u: Input_g2 at 369.72: waiting for an event
-u: Output_u4 at 369.72: waiting for an event
-u: g2_ACOANDPSO at 369.72: scheduling event type 0 for g2_ACOANDPSO with delay 406.4533333333333
-u: g2 at 369.72: waiting for an event
+u: Input_u6 at 368.36: start processing
+u: Input_u7 at 368.36: start processing
+u: Input_g1 at 369.72: scheduling event type 21 for g1 with delay 0.0
+u: Input_g1 at 369.72: waiting for an event
+u: Output_u4 at 369.72: selected event type 21 (event time was 368.36)
+u: Output_u4 at 369.72: scheduling event type 21 for Input_g2 with delay 0.0
+u: Output_u4 at 369.72: start processing
+u: Input_g2 at 369.72: start processing
+u: g1_SpaceShared at 369.72: scheduling event type 0 for g1_SpaceShared with delay 513.0
+u: g1 at 369.72: waiting for an event
+u: Input_g2 at 372.12: scheduling event type 21 for g2 with delay 0.0
+u: Input_g2 at 372.12: waiting for an event
+u: Output_u4 at 372.12: waiting for an event
+u: g2_SpaceShared at 372.12: scheduling event type 0 for g2_SpaceShared with delay 518.0
+u: g2 at 372.12: waiting for an event
+u: Output_g1 at 420.84000000000003: waiting for an event
+u: Input_u7 at 420.84000000000003: scheduling event type 6 for u7 with delay 0.0
+u: Input_u6 at 420.84000000000003: scheduling event type 6 for u6 with delay 0.0
+u: Input_u7 at 420.84000000000003: waiting for an event
+u: Input_u6 at 420.84000000000003: waiting for an event
+u: Input_u9 at 420.84000000000003: scheduling event type 6 for u9 with delay 0.0
+u: Input_u9 at 420.84000000000003: waiting for an event
+u: Output_g2 at 420.84000000000003: selected event type 6 (event time was 1.0)
+u: Output_g2 at 420.84000000000003: scheduling event type 6 for Input_u8 with delay 0.0
+u: Output_g2 at 420.84000000000003: start processing
 u: Output_g3 at 420.84000000000003: waiting for an event
-u: Input_u2 at 420.84000000000003: scheduling event type 6 for u2 with delay 0.0
-u: Input_u2 at 420.84000000000003: waiting for an event
-u: u2 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
-u: u2 at 420.84000000000003: scheduling event type 21 for Output_u2 with delay 0.0
-u: u2 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
-u: u2 at 420.84000000000003: waiting for an event
+u: u7 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u7 at 420.84000000000003: scheduling event type 6 for g3 with delay 0.0
+u: u7 at 420.84000000000003: waiting for an event
+u: u9 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 420.84000000000003: scheduling event type 6 for g1 with delay 0.0
+u: Input_u8 at 420.84000000000003: start processing
+u: u9 at 420.84000000000003: waiting for an event
+u: u6 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 420.84000000000003: scheduling event type 21 for Output_u6 with delay 0.0
+u: u6 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 420.84000000000003: scheduling event type 21 for Output_u6 with delay 0.0
+u: u6 at 420.84000000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 420.84000000000003: waiting for an event
+u: g1 at 420.84000000000003: scheduling event type 6 for Output_g1 with delay 0.0
 u: GridStatistics at 420.84000000000003: selected event type 10 (event time was 420.84000000000003)
-u: Output_u2 at 420.84000000000003: scheduling event type 21 for Input_g3 with delay 0.0
+u: g1 at 420.84000000000003: waiting for an event
+u: GridStatistics at 420.84000000000003: selected event type 10 (event time was 420.84000000000003)
+u: g3 at 420.84000000000003: scheduling event type 6 for Output_g3 with delay 0.0
+u: GridStatistics at 420.84000000000003: selected event type 10 (event time was 420.84000000000003)
+u: g3 at 420.84000000000003: waiting for an event
+u: GridStatistics at 420.84000000000003: selected event type 10 (event time was 420.84000000000003)
+u: Output_u6 at 420.84000000000003: scheduling event type 21 for Input_g3 with delay 0.0
 u: GridStatistics at 420.84000000000003: waiting for an event
-u: Output_u2 at 420.84000000000003: start processing
+u: Output_u6 at 420.84000000000003: start processing
 u: Input_g3 at 420.84000000000003: start processing
-u: Output_u2 at 422.28000000000003: waiting for an event
-u: Input_g3 at 422.28000000000003: scheduling event type 21 for g3 with delay 0.0
-u: Input_g3 at 422.28000000000003: waiting for an event
-u: g3_ACOANDPSO at 422.28000000000003: scheduling event type 0 for g3_ACOANDPSO with delay 157.85999999999999
-u: g3 at 422.28000000000003: waiting for an event
-u: g1_ACOANDPSO at 556.8666666666667: scheduling event type 20 for Output_g1 with delay 0.0
-u: g1_ACOANDPSO at 556.8666666666667: scheduling event type 0 for g1_ACOANDPSO with delay 0.0
-u: g1_ACOANDPSO at 556.8666666666667: waiting for an event
-u: Output_g1 at 556.8666666666667: scheduling event type 20 for Input_u1 with delay 0.0
-u: Output_g1 at 556.8666666666667: start processing
-u: g1_ACOANDPSO at 556.8666666666667: waiting for an event
-u: Input_u1 at 556.8666666666667: start processing
-u: g3_ACOANDPSO at 580.14: scheduling event type 20 for Output_g3 with delay 0.0
-u: g3_ACOANDPSO at 580.14: scheduling event type 0 for g3_ACOANDPSO with delay 250.42666666666665
-u: g3_ACOANDPSO at 580.14: selected event type 0 (event time was 580.14)
-u: g3_ACOANDPSO at 580.14: selected event type 0 (event time was 580.14)
-u: g3_ACOANDPSO at 580.14: waiting for an event
-u: Output_g3 at 580.14: scheduling event type 20 for Input_u3 with delay 0.0
-u: Output_g3 at 580.14: start processing
-u: Input_u3 at 580.14: start processing
-u: Output_g1 at 720.7066666666667: waiting for an event
-u: Input_u1 at 720.7066666666667: scheduling event type 20 for u1 with delay 0.0
-u: Input_u1 at 720.7066666666667: waiting for an event
-u: u1 at 720.7066666666667: scheduling event type 10 for GridStatistics with delay 0.0
-u: u1 at 720.7066666666667: scheduling event type -1 for GridStatistics with delay 0.0
-u: u1 at 720.7066666666667: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: u1 at 720.7066666666667: scheduling event type -1 for Input_u1 with delay 0.0
-u: u1 at 720.7066666666667: scheduling event type -1 for Output_u1 with delay 0.0
-u: GridSimShutdown at 720.7066666666667: waiting for an event
-u: GridStatistics at 720.7066666666667: selected event type -1 (event time was 720.7066666666667)
-u: g2_ACOANDPSO at 776.1733333333333: scheduling event type 0 for g2_ACOANDPSO with delay 1.0
-u: g2_ACOANDPSO at 776.1733333333333: waiting for an event
-u: g2_ACOANDPSO at 776.1733333333334: scheduling event type 20 for Output_g2 with delay 0.0
-u: g2_ACOANDPSO at 776.1733333333334: scheduling event type 0 for g2_ACOANDPSO with delay 106.37999999999995
-u: g2_ACOANDPSO at 776.1733333333334: waiting for an event
-u: Output_g2 at 776.1733333333334: scheduling event type 20 for Input_u5 with delay 0.0
-u: Output_g2 at 776.1733333333334: start processing
-u: Input_u5 at 776.1733333333334: start processing
-u: g2_ACOANDPSO at 777.1733333333333: scheduling event type 0 for g2_ACOANDPSO with delay 105.38000000000011
-u: g2_ACOANDPSO at 777.1733333333333: waiting for an event
-u: Output_g3 at 780.46: waiting for an event
-u: Input_u3 at 780.46: scheduling event type 20 for u3 with delay 0.0
-u: Input_u3 at 780.46: waiting for an event
-u: u3 at 780.46: scheduling event type 10 for GridStatistics with delay 0.0
-u: u3 at 780.46: scheduling event type -1 for GridStatistics with delay 0.0
-u: u3 at 780.46: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: u3 at 780.46: scheduling event type -1 for Input_u3 with delay 0.0
-u: u3 at 780.46: scheduling event type -1 for Output_u3 with delay 0.0
-u: GridSimShutdown at 780.46: waiting for an event
-u: g3_ACOANDPSO at 830.5666666666666: scheduling event type 20 for Output_g3 with delay 0.0
-u: g3_ACOANDPSO at 830.5666666666666: scheduling event type 0 for g3_ACOANDPSO with delay 104.71333333333344
-u: g3_ACOANDPSO at 830.5666666666666: waiting for an event
-u: Output_g3 at 830.5666666666666: scheduling event type 20 for Input_u6 with delay 0.0
-u: Output_g3 at 830.5666666666666: start processing
-u: Input_u6 at 830.5666666666666: start processing
-u: g2_ACOANDPSO at 882.5533333333334: scheduling event type 20 for Output_g2 with delay 0.0
-u: g2_ACOANDPSO at 882.5533333333334: scheduling event type 0 for g2_ACOANDPSO with delay 0.0
-u: g2_ACOANDPSO at 882.5533333333334: selected event type 0 (event time was 882.5533333333334)
-u: g2_ACOANDPSO at 882.5533333333334: waiting for an event
-u: g2_ACOANDPSO at 882.5533333333334: waiting for an event
-u: g3_ACOANDPSO at 935.2800000000001: scheduling event type 20 for Output_g3 with delay 0.0
-u: g3_ACOANDPSO at 935.2800000000001: scheduling event type 0 for g3_ACOANDPSO with delay 0.0
-u: g3_ACOANDPSO at 935.2800000000001: waiting for an event
-u: g3_ACOANDPSO at 935.2800000000001: waiting for an event
-u: Output_g2 at 1019.8533333333335: selected event type 20 (event time was 882.5533333333334)
-u: Input_u5 at 1019.8533333333335: scheduling event type 20 for u5 with delay 0.0
-u: Output_g2 at 1019.8533333333335: scheduling event type 20 for Input_u4 with delay 0.0
-u: Input_u5 at 1019.8533333333335: waiting for an event
-u: Output_g2 at 1019.8533333333335: start processing
-u: Input_u4 at 1019.8533333333335: start processing
-u: u5 at 1019.8533333333335: scheduling event type 10 for GridStatistics with delay 0.0
-u: u5 at 1019.8533333333335: scheduling event type -1 for GridStatistics with delay 0.0
-u: u5 at 1019.8533333333335: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: u5 at 1019.8533333333335: scheduling event type -1 for Input_u5 with delay 0.0
-u: u5 at 1019.8533333333335: scheduling event type -1 for Output_u5 with delay 0.0
-u: GridSimShutdown at 1019.8533333333335: waiting for an event
-u: Output_g3 at 1075.0466666666666: selected event type 20 (event time was 935.2800000000001)
-u: Output_g3 at 1075.0466666666666: scheduling event type 20 for Input_u2 with delay 0.0
-u: Output_g3 at 1075.0466666666666: start processing
-u: Input_u6 at 1075.0466666666666: scheduling event type 20 for u6 with delay 0.0
-u: Input_u6 at 1075.0466666666666: waiting for an event
-u: Input_u2 at 1075.0466666666666: start processing
-u: u6 at 1075.0466666666666: scheduling event type 10 for GridStatistics with delay 0.0
-u: u6 at 1075.0466666666666: scheduling event type -1 for GridStatistics with delay 0.0
-u: u6 at 1075.0466666666666: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: u6 at 1075.0466666666666: scheduling event type -1 for Input_u6 with delay 0.0
-u: u6 at 1075.0466666666666: scheduling event type -1 for Output_u6 with delay 0.0
-u: GridSimShutdown at 1075.0466666666666: waiting for an event
-u: Output_g2 at 1264.3333333333335: waiting for an event
-u: Input_u4 at 1264.3333333333335: scheduling event type 20 for u4 with delay 0.0
-u: Input_u4 at 1264.3333333333335: waiting for an event
-u: u4 at 1264.3333333333335: scheduling event type 10 for GridStatistics with delay 0.0
-u: u4 at 1264.3333333333335: scheduling event type -1 for GridStatistics with delay 0.0
-u: u4 at 1264.3333333333335: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: u4 at 1264.3333333333335: scheduling event type -1 for Input_u4 with delay 0.0
-u: u4 at 1264.3333333333335: scheduling event type -1 for Output_u4 with delay 0.0
-u: GridSimShutdown at 1264.3333333333335: waiting for an event
-u: Input_u2 at 1319.5266666666666: scheduling event type 20 for u2 with delay 0.0
-u: Input_u2 at 1319.5266666666666: waiting for an event
-u: Output_g3 at 1319.5266666666666: waiting for an event
-u: u2 at 1319.5266666666666: scheduling event type 10 for GridStatistics with delay 0.0
-u: u2 at 1319.5266666666666: scheduling event type -1 for GridStatistics with delay 0.0
-u: u2 at 1319.5266666666666: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: u2 at 1319.5266666666666: scheduling event type -1 for Input_u2 with delay 0.0
-u: u2 at 1319.5266666666666: scheduling event type -1 for Output_u2 with delay 0.0
-u: GridSimShutdown at 1319.5266666666666: scheduling event type -1 for GridInformationService with delay 0.0
-u: GridSimShutdown at 1319.5266666666666: start pausing
-u: GridInformationService at 1319.5266666666666: scheduling event type -1 for g1 with delay 0.0
-u: GridInformationService at 1319.5266666666666: scheduling event type -1 for g2 with delay 0.0
-u: GridInformationService at 1319.5266666666666: scheduling event type -1 for g3 with delay 0.0
-u: GridInformationService at 1319.5266666666666: scheduling event type -1 for Input_GridInformationService with delay 0.0
-u: GridInformationService at 1319.5266666666666: scheduling event type -1 for Output_GridInformationService with delay 0.0
-u: g3 at 1319.5266666666666: scheduling event type -1 for Input_g3 with delay 0.0
-u: g3 at 1319.5266666666666: scheduling event type -1 for Output_g3 with delay 0.0
-u: g1 at 1319.5266666666666: scheduling event type -1 for Input_g1 with delay 0.0
-u: g1 at 1319.5266666666666: scheduling event type -1 for Output_g1 with delay 0.0
-u: g2 at 1319.5266666666666: scheduling event type -1 for Input_g2 with delay 0.0
-u: g2 at 1319.5266666666666: scheduling event type -1 for Output_g2 with delay 0.0
-u: GridSimShutdown at 1419.5266666666666: scheduling event type -1 for GridStatistics with delay 0.0
+u: Output_g3 at 420.84000000000003: scheduling event type 6 for Input_u7 with delay 0.0
+u: Output_g3 at 420.84000000000003: start processing
+u: Output_g1 at 420.84000000000003: scheduling event type 6 for Input_u9 with delay 0.0
+u: Output_g1 at 420.84000000000003: start processing
+u: Input_u7 at 420.84000000000003: start processing
+u: Input_u9 at 420.84000000000003: start processing
+u: Input_g3 at 422.36: scheduling event type 21 for g3 with delay 0.0
+u: Input_g3 at 422.36: waiting for an event
+u: Output_u6 at 422.36: selected event type 21 (event time was 420.84000000000003)
+u: Output_u6 at 422.36: scheduling event type 21 for Input_g3 with delay 0.0
+u: Output_u6 at 422.36: start processing
+u: Input_g3 at 422.36: start processing
+u: g3_SpaceShared at 422.36: scheduling event type 0 for g3_SpaceShared with delay 514.0
+u: g3 at 422.36: waiting for an event
+u: Input_g3 at 423.96000000000004: scheduling event type 21 for g3 with delay 0.0
+u: Input_g3 at 423.96000000000004: waiting for an event
+u: Output_u6 at 423.96000000000004: waiting for an event
+u: g3_SpaceShared at 423.96000000000004: scheduling event type 0 for g3_SpaceShared with delay 677.0
+u: g3 at 423.96000000000004: waiting for an event
+u: Output_g1 at 473.32000000000005: waiting for an event
+u: Output_g2 at 473.32000000000005: selected event type 6 (event time was 1.0)
+u: Output_g2 at 473.32000000000005: scheduling event type 6 for Input_u10 with delay 0.0
+u: Output_g2 at 473.32000000000005: start processing
+u: Output_g3 at 473.32000000000005: waiting for an event
+u: Input_u7 at 473.32000000000005: scheduling event type 6 for u7 with delay 0.0
+u: Input_u7 at 473.32000000000005: waiting for an event
+u: Input_u8 at 473.32000000000005: scheduling event type 6 for u8 with delay 0.0
+u: Input_u8 at 473.32000000000005: waiting for an event
+u: Input_u9 at 473.32000000000005: scheduling event type 6 for u9 with delay 0.0
+u: Input_u9 at 473.32000000000005: waiting for an event
+u: Input_u10 at 473.32000000000005: start processing
+u: u7 at 473.32000000000005: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 473.32000000000005: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 473.32000000000005: scheduling event type 6 for g3 with delay 0.0
+u: u8 at 473.32000000000005: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 473.32000000000005: scheduling event type 6 for g1 with delay 0.0
+u: u9 at 473.32000000000005: waiting for an event
+u: u8 at 473.32000000000005: waiting for an event
+u: u7 at 473.32000000000005: scheduling event type 21 for Output_u7 with delay 0.0
+u: u7 at 473.32000000000005: scheduling event type 10 for GridStatistics with delay 0.0
+u: u7 at 473.32000000000005: scheduling event type 21 for Output_u7 with delay 0.0
+u: u7 at 473.32000000000005: scheduling event type 10 for GridStatistics with delay 0.0
+u: u7 at 473.32000000000005: waiting for an event
+u: g3 at 473.32000000000005: scheduling event type 6 for Output_g3 with delay 0.0
+u: g1 at 473.32000000000005: scheduling event type 6 for Output_g1 with delay 0.0
+u: g3 at 473.32000000000005: waiting for an event
+u: g1 at 473.32000000000005: waiting for an event
+u: GridStatistics at 473.32000000000005: selected event type 10 (event time was 473.32000000000005)
+u: GridStatistics at 473.32000000000005: selected event type 10 (event time was 473.32000000000005)
+u: Output_u7 at 473.32000000000005: scheduling event type 21 for Input_g3 with delay 0.0
+u: GridStatistics at 473.32000000000005: selected event type 10 (event time was 473.32000000000005)
+u: Output_u7 at 473.32000000000005: start processing
+u: GridStatistics at 473.32000000000005: selected event type 10 (event time was 473.32000000000005)
+u: GridStatistics at 473.32000000000005: waiting for an event
+u: Output_g3 at 473.32000000000005: scheduling event type 6 for Input_u9 with delay 0.0
+u: Input_g3 at 473.32000000000005: start processing
+u: Output_g1 at 473.32000000000005: scheduling event type 6 for Input_u8 with delay 0.0
+u: Output_g3 at 473.32000000000005: start processing
+u: Output_g1 at 473.32000000000005: start processing
+u: Input_u8 at 473.32000000000005: start processing
+u: Input_u9 at 473.32000000000005: start processing
+u: Output_u7 at 475.72: selected event type 21 (event time was 473.32000000000005)
+u: Input_g3 at 475.72: scheduling event type 21 for g3 with delay 0.0
+u: Output_u7 at 475.72: scheduling event type 21 for Input_g2 with delay 0.0
+u: Input_g3 at 475.72: waiting for an event
+u: Output_u7 at 475.72: start processing
+u: Input_g2 at 475.72: start processing
+u: g3_SpaceShared at 475.72: scheduling event type 0 for g3_SpaceShared with delay 348.0
+u: g3 at 475.72: waiting for an event
+u: Input_g2 at 478.12: scheduling event type 21 for g2 with delay 0.0
+u: Input_g2 at 478.12: waiting for an event
+u: Output_u7 at 478.12: waiting for an event
+u: g2_SpaceShared at 478.12: scheduling event type 0 for g2_SpaceShared with delay 680.0
+u: g2 at 478.12: waiting for an event
+u: g3_SpaceShared at 504.72: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 504.72: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 504.72: waiting for an event
+u: g3_SpaceShared at 511.91999999999996: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 511.91999999999996: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 511.91999999999996: waiting for an event
+u: Output_g1 at 525.8000000000001: waiting for an event
+u: Output_g3 at 525.8000000000001: selected event type 20 (event time was 504.72)
+u: Output_g2 at 525.8000000000001: waiting for an event
+u: Input_u8 at 525.8000000000001: scheduling event type 6 for u8 with delay 0.0
+u: Output_g3 at 525.8000000000001: scheduling event type 20 for Input_u1 with delay 0.0
+u: Input_u8 at 525.8000000000001: waiting for an event
+u: Output_g3 at 525.8000000000001: start processing
+u: Input_u10 at 525.8000000000001: scheduling event type 6 for u10 with delay 0.0
+u: Input_u10 at 525.8000000000001: waiting for an event
+u: Input_u9 at 525.8000000000001: scheduling event type 6 for u9 with delay 0.0
+u: Input_u9 at 525.8000000000001: waiting for an event
+u: Input_u1 at 525.8000000000001: start processing
+u: u8 at 525.8000000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 525.8000000000001: scheduling event type 6 for g3 with delay 0.0
+u: u8 at 525.8000000000001: waiting for an event
+u: u9 at 525.8000000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 525.8000000000001: scheduling event type 21 for Output_u9 with delay 0.0
+u: u9 at 525.8000000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 525.8000000000001: scheduling event type 21 for Output_u9 with delay 0.0
+u: u9 at 525.8000000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 525.8000000000001: waiting for an event
+u: u10 at 525.8000000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 525.8000000000001: scheduling event type 6 for g1 with delay 0.0
+u: u10 at 525.8000000000001: waiting for an event
+u: GridStatistics at 525.8000000000001: selected event type 10 (event time was 525.8000000000001)
+u: g1 at 525.8000000000001: scheduling event type 6 for Output_g1 with delay 0.0
+u: GridStatistics at 525.8000000000001: selected event type 10 (event time was 525.8000000000001)
+u: g1 at 525.8000000000001: waiting for an event
+u: GridStatistics at 525.8000000000001: selected event type 10 (event time was 525.8000000000001)
+u: GridStatistics at 525.8000000000001: selected event type 10 (event time was 525.8000000000001)
+u: g3 at 525.8000000000001: scheduling event type 6 for Output_g3 with delay 0.0
+u: Output_u9 at 525.8000000000001: scheduling event type 21 for Input_g2 with delay 0.0
+u: GridStatistics at 525.8000000000001: waiting for an event
+u: g3 at 525.8000000000001: waiting for an event
+u: Output_u9 at 525.8000000000001: start processing
+u: Input_g2 at 525.8000000000001: start processing
+u: Output_g1 at 525.8000000000001: scheduling event type 6 for Input_u10 with delay 0.0
+u: Output_g1 at 525.8000000000001: start processing
+u: Input_u10 at 525.8000000000001: start processing
+u: Input_g2 at 527.4000000000001: scheduling event type 21 for g2 with delay 0.0
+u: Input_g2 at 527.4000000000001: waiting for an event
+u: Output_u9 at 527.4000000000001: selected event type 21 (event time was 525.8000000000001)
+u: Output_u9 at 527.4000000000001: scheduling event type 21 for Input_g3 with delay 0.0
+u: Output_u9 at 527.4000000000001: start processing
+u: Input_g3 at 527.4000000000001: start processing
+u: g2_SpaceShared at 527.4000000000001: scheduling event type 0 for g2_SpaceShared with delay 349.0
+u: g2 at 527.4000000000001: waiting for an event
+u: Input_g3 at 529.5600000000001: scheduling event type 21 for g3 with delay 0.0
+u: Input_g3 at 529.5600000000001: waiting for an event
+u: Output_u9 at 529.5600000000001: waiting for an event
+u: g3_SpaceShared at 529.5600000000001: scheduling event type 0 for g3_SpaceShared with delay 347.0
+u: g3 at 529.5600000000001: waiting for an event
+u: Output_g1 at 578.2800000000001: waiting for an event
+u: Input_u10 at 578.2800000000001: scheduling event type 6 for u10 with delay 0.0
+u: Input_u10 at 578.2800000000001: waiting for an event
+u: u10 at 578.2800000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 578.2800000000001: scheduling event type 6 for g3 with delay 0.0
+u: u10 at 578.2800000000001: waiting for an event
+u: g3 at 578.2800000000001: scheduling event type 6 for Output_g3 with delay 0.0
+u: GridStatistics at 578.2800000000001: waiting for an event
+u: g3 at 578.2800000000001: waiting for an event
+u: g3_SpaceShared at 685.5999999999999: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 685.5999999999999: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 685.5999999999999: waiting for an event
+u: Input_u1 at 689.6400000000001: scheduling event type 20 for u1 with delay 0.0
+u: Input_u1 at 689.6400000000001: waiting for an event
+u: Output_g3 at 689.6400000000001: selected event type 20 (event time was 511.91999999999996)
+u: Output_g3 at 689.6400000000001: scheduling event type 20 for Input_u1 with delay 0.0
+u: Output_g3 at 689.6400000000001: start processing
+u: Input_u1 at 689.6400000000001: start processing
+u: u1 at 689.6400000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u1 at 689.6400000000001: waiting for an event
+u: GridStatistics at 689.6400000000001: waiting for an event
+u: g1_SpaceShared at 726.36: scheduling event type 20 for Output_g1 with delay 0.0
+u: g1_SpaceShared at 726.36: scheduling event type 0 for g1_SpaceShared with delay 3600.0
+u: g1_SpaceShared at 726.36: waiting for an event
+u: Output_g1 at 726.36: scheduling event type 20 for Input_u2 with delay 0.0
+u: Output_g1 at 726.36: start processing
+u: Input_u2 at 726.36: start processing
+u: g3_SpaceShared at 728.76: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 728.76: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 728.76: waiting for an event
+u: g3_SpaceShared at 788.4: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 788.4: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 788.4: waiting for an event
+u: g3_SpaceShared at 823.72: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 823.72: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 823.72: waiting for an event
+u: g3_SpaceShared at 829.3199999999999: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 829.3199999999999: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 829.3199999999999: waiting for an event
+u: Input_u1 at 853.4800000000001: scheduling event type 20 for u1 with delay 0.0
+u: Input_u1 at 853.4800000000001: waiting for an event
+u: Output_g3 at 853.4800000000001: selected event type 6 (event time was 525.8000000000001)
+u: Output_g3 at 853.4800000000001: scheduling event type 6 for Input_u8 with delay 0.0
+u: Output_g3 at 853.4800000000001: start processing
+u: Input_u8 at 853.4800000000001: start processing
+u: u1 at 853.4800000000001: scheduling event type 10 for GridStatistics with delay 0.0
+u: u1 at 853.4800000000001: scheduling event type -1 for GridStatistics with delay 0.0
+u: u1 at 853.4800000000001: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u1 at 853.4800000000001: scheduling event type -1 for Input_u1 with delay 0.0
+u: u1 at 853.4800000000001: scheduling event type -1 for Output_u1 with delay 0.0
+u: GridSimShutdown at 853.4800000000001: waiting for an event
+u: GridStatistics at 853.4800000000001: selected event type -1 (event time was 853.4800000000001)
+u: g2_SpaceShared at 876.4000000000001: scheduling event type 20 for Output_g2 with delay 0.0
+u: g2_SpaceShared at 876.4000000000001: scheduling event type 0 for g2_SpaceShared with delay 3600.0
+u: g2_SpaceShared at 876.4000000000001: waiting for an event
+u: Output_g2 at 876.4000000000001: scheduling event type 20 for Input_u9 with delay 0.0
+u: Output_g2 at 876.4000000000001: start processing
+u: Input_u9 at 876.4000000000001: start processing
+u: g3_SpaceShared at 876.5600000000001: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 876.5600000000001: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 876.5600000000001: waiting for an event
+u: g1_SpaceShared at 882.72: scheduling event type 20 for Output_g1 with delay 0.0
+u: g1_SpaceShared at 882.72: waiting for an event
+u: g2_SpaceShared at 890.12: scheduling event type 20 for Output_g2 with delay 0.0
+u: g2_SpaceShared at 890.12: scheduling event type 0 for g2_SpaceShared with delay 3600.0
+u: g2_SpaceShared at 890.12: waiting for an event
+u: Input_u8 at 905.9600000000002: scheduling event type 6 for u8 with delay 0.0
+u: Output_g3 at 905.9600000000002: selected event type 6 (event time was 578.2800000000001)
+u: Input_u8 at 905.9600000000002: waiting for an event
+u: Output_g3 at 905.9600000000002: scheduling event type 6 for Input_u10 with delay 0.0
+u: Output_g3 at 905.9600000000002: start processing
+u: Input_u10 at 905.9600000000002: start processing
+u: u8 at 905.9600000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 905.9600000000002: scheduling event type 21 for Output_u8 with delay 0.0
+u: u8 at 905.9600000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 905.9600000000002: scheduling event type 21 for Output_u8 with delay 0.0
+u: u8 at 905.9600000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 905.9600000000002: waiting for an event
+u: Output_u8 at 905.9600000000002: scheduling event type 21 for Input_g1 with delay 0.0
+u: Output_u8 at 905.9600000000002: start processing
+u: Input_g1 at 905.9600000000002: start processing
+u: Input_g1 at 907.8000000000002: scheduling event type 21 for g1 with delay 0.0
+u: Input_g1 at 907.8000000000002: waiting for an event
+u: Output_u8 at 907.8000000000002: selected event type 21 (event time was 905.9600000000002)
+u: Output_u8 at 907.8000000000002: scheduling event type 21 for Input_g1 with delay 0.0
+u: Output_u8 at 907.8000000000002: start processing
+u: Input_g1 at 907.8000000000002: start processing
+u: g1_SpaceShared at 907.8000000000002: scheduling event type 0 for g1_SpaceShared with delay 683.0
+u: g1 at 907.8000000000002: waiting for an event
+u: Input_g1 at 910.2000000000002: scheduling event type 21 for g1 with delay 0.0
+u: Input_g1 at 910.2000000000002: waiting for an event
+u: Output_u8 at 910.2000000000002: waiting for an event
+u: g1_SpaceShared at 910.2000000000002: scheduling event type 0 for g1_SpaceShared with delay 514.0
+u: g1 at 910.2000000000002: waiting for an event
+u: g3_SpaceShared at 936.36: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 936.36: scheduling event type 0 for g3_SpaceShared with delay 3600.0
+u: g3_SpaceShared at 936.36: waiting for an event
+u: Output_g3 at 958.4400000000002: selected event type 20 (event time was 685.5999999999999)
+u: Output_g3 at 958.4400000000002: scheduling event type 20 for Input_u3 with delay 0.0
+u: Output_g3 at 958.4400000000002: start processing
+u: Input_u10 at 958.4400000000002: scheduling event type 6 for u10 with delay 0.0
+u: Input_u10 at 958.4400000000002: waiting for an event
+u: Input_u3 at 958.4400000000002: start processing
+u: u10 at 958.4400000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 958.4400000000002: scheduling event type 21 for Output_u10 with delay 0.0
+u: u10 at 958.4400000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 958.4400000000002: scheduling event type 21 for Output_u10 with delay 0.0
+u: u10 at 958.4400000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 958.4400000000002: waiting for an event
+u: Output_u10 at 958.4400000000002: scheduling event type 21 for Input_g2 with delay 0.0
+u: Output_u10 at 958.4400000000002: start processing
+u: Input_g2 at 958.4400000000002: start processing
+u: Input_g2 at 960.8400000000001: scheduling event type 21 for g2 with delay 0.0
+u: Input_g2 at 960.8400000000001: waiting for an event
+u: Output_u10 at 960.8400000000001: selected event type 21 (event time was 958.4400000000002)
+u: Output_u10 at 960.8400000000001: scheduling event type 21 for Input_g1 with delay 0.0
+u: Output_u10 at 960.8400000000001: start processing
+u: Input_g1 at 960.8400000000001: start processing
+u: g2_SpaceShared at 960.8400000000001: scheduling event type 0 for g2_SpaceShared with delay 514.0
+u: g2 at 960.8400000000001: waiting for an event
+u: Input_g1 at 962.4400000000002: scheduling event type 21 for g1 with delay 0.0
+u: Input_g1 at 962.4400000000002: waiting for an event
+u: Output_u10 at 962.4400000000002: waiting for an event
+u: g1_SpaceShared at 962.4400000000002: scheduling event type 0 for g1_SpaceShared with delay 514.0
+u: g1 at 962.4400000000002: waiting for an event
+u: Output_g1 at 970.84: selected event type 20 (event time was 882.72)
+u: Input_u2 at 970.84: scheduling event type 20 for u2 with delay 0.0
+u: Output_g1 at 970.84: scheduling event type 20 for Input_u4 with delay 0.0
+u: Input_u2 at 970.84: waiting for an event
+u: Output_g1 at 970.84: start processing
+u: Input_u4 at 970.84: start processing
+u: u2 at 970.84: scheduling event type 10 for GridStatistics with delay 0.0
+u: u2 at 970.84: waiting for an event
+u: g2_SpaceShared at 1001.72: scheduling event type 20 for Output_g2 with delay 0.0
+u: g2_SpaceShared at 1001.72: scheduling event type 0 for g2_SpaceShared with delay 3600.0
+u: g2_SpaceShared at 1001.72: waiting for an event
+u: Output_g2 at 1041.7600000000002: selected event type 20 (event time was 890.12)
+u: Input_u9 at 1041.7600000000002: scheduling event type 20 for u9 with delay 0.0
+u: Output_g2 at 1041.7600000000002: scheduling event type 20 for Input_u4 with delay 0.0
+u: Output_g2 at 1041.7600000000002: start processing
+u: Input_u9 at 1041.7600000000002: waiting for an event
+u: u9 at 1041.7600000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 1041.7600000000002: waiting for an event
+u: g3_SpaceShared at 1100.96: scheduling event type 20 for Output_g3 with delay 0.0
+u: g3_SpaceShared at 1100.96: waiting for an event
+u: g2_SpaceShared at 1158.12: scheduling event type 20 for Output_g2 with delay 0.0
+u: g2_SpaceShared at 1158.12: scheduling event type 0 for g2_SpaceShared with delay 3600.0
+u: g2_SpaceShared at 1158.12: waiting for an event
+u: Input_u3 at 1158.7600000000002: scheduling event type 20 for u3 with delay 0.0
+u: Input_u3 at 1158.7600000000002: waiting for an event
+u: Output_g3 at 1158.7600000000002: selected event type 20 (event time was 728.76)
+u: Output_g3 at 1158.7600000000002: scheduling event type 20 for Input_u2 with delay 0.0
+u: Output_g3 at 1158.7600000000002: start processing
+u: Input_u2 at 1158.7600000000002: start processing
+u: u3 at 1158.7600000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 1158.7600000000002: waiting for an event
+u: Output_g1 at 1215.32: waiting for an event
+u: Input_u4 at 1215.32: scheduling event type 20 for u4 with delay 0.0
+u: Input_u4 at 1215.32: selected event type 20 (event time was 1041.7600000000002)
+u: Input_u4 at 1215.32: start processing
+u: u4 at 1215.32: scheduling event type 10 for GridStatistics with delay 0.0
+u: u4 at 1215.32: waiting for an event
+u: Output_g2 at 1287.1200000000003: selected event type 20 (event time was 1001.72)
+u: Output_g2 at 1287.1200000000003: scheduling event type 20 for Input_u5 with delay 0.0
+u: Output_g2 at 1287.1200000000003: start processing
+u: Input_u5 at 1287.1200000000003: start processing
+u: Output_g3 at 1402.4400000000003: selected event type 20 (event time was 788.4)
+u: Output_g3 at 1402.4400000000003: scheduling event type 20 for Input_u3 with delay 0.0
+u: Output_g3 at 1402.4400000000003: start processing
+u: Input_u2 at 1402.4400000000003: scheduling event type 20 for u2 with delay 0.0
+u: Input_u2 at 1402.4400000000003: waiting for an event
+u: Input_u3 at 1402.4400000000003: start processing
+u: u2 at 1402.4400000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u2 at 1402.4400000000003: scheduling event type -1 for GridStatistics with delay 0.0
+u: u2 at 1402.4400000000003: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u2 at 1402.4400000000003: scheduling event type -1 for Input_u2 with delay 0.0
+u: u2 at 1402.4400000000003: scheduling event type -1 for Output_u2 with delay 0.0
+u: GridSimShutdown at 1402.4400000000003: waiting for an event
+u: g1_SpaceShared at 1424.2000000000003: scheduling event type 20 for Output_g1 with delay 0.0
+u: g1_SpaceShared at 1424.2000000000003: scheduling event type 0 for g1_SpaceShared with delay 3600.0
+u: g1_SpaceShared at 1424.2000000000003: waiting for an event
+u: Output_g1 at 1424.2000000000003: scheduling event type 20 for Input_u8 with delay 0.0
+u: Output_g1 at 1424.2000000000003: start processing
+u: Input_u8 at 1424.2000000000003: start processing
+u: Input_u4 at 1460.6799999999998: scheduling event type 20 for u4 with delay 0.0
+u: Input_u4 at 1460.6799999999998: waiting for an event
+u: u4 at 1460.6799999999998: scheduling event type 10 for GridStatistics with delay 0.0
+u: u4 at 1460.6799999999998: scheduling event type -1 for GridStatistics with delay 0.0
+u: u4 at 1460.6799999999998: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u4 at 1460.6799999999998: scheduling event type -1 for Input_u4 with delay 0.0
+u: u4 at 1460.6799999999998: scheduling event type -1 for Output_u4 with delay 0.0
+u: GridSimShutdown at 1460.6799999999998: waiting for an event
+u: g2_SpaceShared at 1474.8400000000001: scheduling event type 20 for Output_g2 with delay 0.0
+u: g2_SpaceShared at 1474.8400000000001: waiting for an event
+u: g1_SpaceShared at 1476.44: scheduling event type 20 for Output_g1 with delay 0.0
+u: g1_SpaceShared at 1476.44: scheduling event type 0 for g1_SpaceShared with delay 3600.0
+u: g1_SpaceShared at 1476.44: waiting for an event
+u: g1_SpaceShared at 1590.8000000000002: scheduling event type 20 for Output_g1 with delay 0.0
+u: g1_SpaceShared at 1590.8000000000002: waiting for an event
+u: Output_g2 at 1611.6000000000004: selected event type 20 (event time was 1158.12)
+u: Input_u5 at 1611.6000000000004: scheduling event type 20 for u5 with delay 0.0
+u: Input_u5 at 1611.6000000000004: waiting for an event
+u: Output_g2 at 1611.6000000000004: scheduling event type 20 for Input_u7 with delay 0.0
+u: Output_g2 at 1611.6000000000004: start processing
+u: u5 at 1611.6000000000004: scheduling event type 10 for GridStatistics with delay 0.0
+u: u5 at 1611.6000000000004: waiting for an event
+u: Input_u7 at 1611.6000000000004: start processing
+u: Input_u3 at 1646.2800000000002: scheduling event type 20 for u3 with delay 0.0
+u: Output_g3 at 1646.2800000000002: selected event type 20 (event time was 823.72)
+u: Input_u3 at 1646.2800000000002: waiting for an event
+u: Output_g3 at 1646.2800000000002: scheduling event type 20 for Input_u7 with delay 0.0
+u: Output_g3 at 1646.2800000000002: start processing
+u: u3 at 1646.2800000000002: scheduling event type 10 for GridStatistics with delay 0.0
+u: u3 at 1646.2800000000002: scheduling event type -1 for GridStatistics with delay 0.0
+u: u3 at 1646.2800000000002: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u3 at 1646.2800000000002: scheduling event type -1 for Input_u3 with delay 0.0
+u: u3 at 1646.2800000000002: scheduling event type -1 for Output_u3 with delay 0.0
+u: GridSimShutdown at 1646.2800000000002: waiting for an event
+u: Output_g1 at 1667.8800000000003: selected event type 20 (event time was 1476.44)
+u: Input_u8 at 1667.8800000000003: scheduling event type 20 for u8 with delay 0.0
+u: Output_g1 at 1667.8800000000003: scheduling event type 20 for Input_u10 with delay 0.0
+u: Input_u8 at 1667.8800000000003: waiting for an event
+u: Output_g1 at 1667.8800000000003: start processing
+u: u8 at 1667.8800000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 1667.8800000000003: waiting for an event
+u: Input_u10 at 1667.8800000000003: start processing
+u: Output_g3 at 1810.1200000000001: selected event type 20 (event time was 829.3199999999999)
+u: Output_g3 at 1810.1200000000001: scheduling event type 20 for Input_u5 with delay 0.0
+u: Output_g3 at 1810.1200000000001: start processing
+u: Input_u5 at 1810.1200000000001: start processing
+u: Output_g1 at 1912.3600000000004: selected event type 20 (event time was 1590.8000000000002)
+u: Input_u10 at 1912.3600000000004: scheduling event type 20 for u10 with delay 0.0
+u: Output_g1 at 1912.3600000000004: scheduling event type 20 for Input_u8 with delay 0.0
+u: Output_g1 at 1912.3600000000004: start processing
+u: Input_u10 at 1912.3600000000004: waiting for an event
+u: Input_u8 at 1912.3600000000004: start processing
+u: u10 at 1912.3600000000004: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 1912.3600000000004: waiting for an event
+u: Output_g2 at 1935.2000000000003: selected event type 20 (event time was 1474.8400000000001)
+u: Output_g2 at 1935.2000000000003: scheduling event type 20 for Input_u10 with delay 0.0
+u: Output_g2 at 1935.2000000000003: start processing
+u: Input_u7 at 1935.2000000000003: scheduling event type 20 for u7 with delay 0.0
+u: Input_u7 at 1935.2000000000003: selected event type 20 (event time was 1646.2800000000002)
+u: Input_u7 at 1935.2000000000003: start processing
+u: u7 at 1935.2000000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u7 at 1935.2000000000003: waiting for an event
+u: Input_u10 at 1935.2000000000003: start processing
+u: Output_g3 at 2053.8: selected event type 20 (event time was 876.5600000000001)
+u: Input_u5 at 2053.8: scheduling event type 20 for u5 with delay 0.0
+u: Output_g3 at 2053.8: scheduling event type 20 for Input_u9 with delay 0.0
+u: Output_g3 at 2053.8: start processing
+u: Input_u5 at 2053.8: waiting for an event
+u: u5 at 2053.8: scheduling event type 10 for GridStatistics with delay 0.0
+u: u5 at 2053.8: scheduling event type -1 for GridStatistics with delay 0.0
+u: u5 at 2053.8: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u5 at 2053.8: scheduling event type -1 for Input_u5 with delay 0.0
+u: u5 at 2053.8: scheduling event type -1 for Output_u5 with delay 0.0
+u: Input_u9 at 2053.8: start processing
+u: GridSimShutdown at 2053.8: waiting for an event
+u: Input_u7 at 2099.0400000000004: scheduling event type 20 for u7 with delay 0.0
+u: Input_u7 at 2099.0400000000004: waiting for an event
+u: u7 at 2099.0400000000004: scheduling event type 10 for GridStatistics with delay 0.0
+u: u7 at 2099.0400000000004: scheduling event type -1 for GridStatistics with delay 0.0
+u: u7 at 2099.0400000000004: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u7 at 2099.0400000000004: scheduling event type -1 for Input_u7 with delay 0.0
+u: u7 at 2099.0400000000004: scheduling event type -1 for Output_u7 with delay 0.0
+u: GridSimShutdown at 2099.0400000000004: waiting for an event
+u: Output_g2 at 2178.8: waiting for an event
+u: Input_u10 at 2178.8: scheduling event type 20 for u10 with delay 0.0
+u: Input_u10 at 2178.8: waiting for an event
+u: u10 at 2178.8: scheduling event type 10 for GridStatistics with delay 0.0
+u: u10 at 2178.8: scheduling event type -1 for GridStatistics with delay 0.0
+u: u10 at 2178.8: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u10 at 2178.8: scheduling event type -1 for Input_u10 with delay 0.0
+u: u10 at 2178.8: scheduling event type -1 for Output_u10 with delay 0.0
+u: GridSimShutdown at 2178.8: waiting for an event
+u: Output_g3 at 2217.6400000000003: selected event type 20 (event time was 936.36)
+u: Output_g3 at 2217.6400000000003: scheduling event type 20 for Input_u6 with delay 0.0
+u: Output_g3 at 2217.6400000000003: start processing
+u: Input_u9 at 2217.6400000000003: scheduling event type 20 for u9 with delay 0.0
+u: Input_u9 at 2217.6400000000003: waiting for an event
+u: Input_u6 at 2217.6400000000003: start processing
+u: u9 at 2217.6400000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u9 at 2217.6400000000003: scheduling event type -1 for GridStatistics with delay 0.0
+u: u9 at 2217.6400000000003: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u9 at 2217.6400000000003: scheduling event type -1 for Input_u9 with delay 0.0
+u: u9 at 2217.6400000000003: scheduling event type -1 for Output_u9 with delay 0.0
+u: GridSimShutdown at 2217.6400000000003: waiting for an event
+u: Output_g1 at 2237.7200000000003: waiting for an event
+u: Input_u8 at 2237.7200000000003: scheduling event type 20 for u8 with delay 0.0
+u: Input_u8 at 2237.7200000000003: waiting for an event
+u: u8 at 2237.7200000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u8 at 2237.7200000000003: scheduling event type -1 for GridStatistics with delay 0.0
+u: u8 at 2237.7200000000003: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u8 at 2237.7200000000003: scheduling event type -1 for Input_u8 with delay 0.0
+u: u8 at 2237.7200000000003: scheduling event type -1 for Output_u8 with delay 0.0
+u: GridSimShutdown at 2237.7200000000003: waiting for an event
+u: Input_u6 at 2462.1200000000003: scheduling event type 20 for u6 with delay 0.0
+u: Input_u6 at 2462.1200000000003: waiting for an event
+u: Output_g3 at 2462.1200000000003: selected event type 20 (event time was 1100.96)
+u: Output_g3 at 2462.1200000000003: scheduling event type 20 for Input_u6 with delay 0.0
+u: Output_g3 at 2462.1200000000003: start processing
+u: u6 at 2462.1200000000003: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 2462.1200000000003: waiting for an event
+u: Input_u6 at 2462.1200000000003: start processing
+u: Output_g3 at 2785.0000000000005: waiting for an event
+u: Input_u6 at 2785.0000000000005: scheduling event type 20 for u6 with delay 0.0
+u: Input_u6 at 2785.0000000000005: waiting for an event
+u: u6 at 2785.0000000000005: scheduling event type 10 for GridStatistics with delay 0.0
+u: u6 at 2785.0000000000005: scheduling event type -1 for GridStatistics with delay 0.0
+u: u6 at 2785.0000000000005: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: u6 at 2785.0000000000005: scheduling event type -1 for Input_u6 with delay 0.0
+u: u6 at 2785.0000000000005: scheduling event type -1 for Output_u6 with delay 0.0
+u: GridSimShutdown at 2785.0000000000005: scheduling event type -1 for GridInformationService with delay 0.0
+u: GridSimShutdown at 2785.0000000000005: start pausing
+u: GridInformationService at 2785.0000000000005: scheduling event type -1 for g2 with delay 0.0
+u: GridInformationService at 2785.0000000000005: scheduling event type -1 for g1 with delay 0.0
+u: GridInformationService at 2785.0000000000005: scheduling event type -1 for g3 with delay 0.0
+u: GridInformationService at 2785.0000000000005: scheduling event type -1 for Input_GridInformationService with delay 0.0
+u: GridInformationService at 2785.0000000000005: scheduling event type -1 for Output_GridInformationService with delay 0.0
+u: g1 at 2785.0000000000005: scheduling event type -1 for Input_g1 with delay 0.0
+u: g1 at 2785.0000000000005: scheduling event type -1 for Output_g1 with delay 0.0
+u: g2 at 2785.0000000000005: scheduling event type -1 for Input_g2 with delay 0.0
+u: g2 at 2785.0000000000005: scheduling event type -1 for Output_g2 with delay 0.0
+u: g3 at 2785.0000000000005: scheduling event type -1 for Input_g3 with delay 0.0
+u: g3 at 2785.0000000000005: scheduling event type -1 for Output_g3 with delay 0.0
+u: GridSimShutdown at 2885.0000000000005: scheduling event type -1 for GridStatistics with delay 0.0

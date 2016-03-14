@@ -1,0 +1,129 @@
+/home/aristocrat/jdk1.8.0/bin/java -Didea.launcher.port=7535 -Didea.launcher.bin.path=/home/aristocrat/idea-IC/bin -Dfile.encoding=UTF-8 -classpath /home/aristocrat/jdk1.8.0/jre/lib/charsets.jar:/home/aristocrat/jdk1.8.0/jre/lib/deploy.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/cldrdata.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/dnsns.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/jfxrt.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/localedata.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/nashorn.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/sunec.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/sunjce_provider.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/sunpkcs11.jar:/home/aristocrat/jdk1.8.0/jre/lib/ext/zipfs.jar:/home/aristocrat/jdk1.8.0/jre/lib/javaws.jar:/home/aristocrat/jdk1.8.0/jre/lib/jce.jar:/home/aristocrat/jdk1.8.0/jre/lib/jfr.jar:/home/aristocrat/jdk1.8.0/jre/lib/jfxswt.jar:/home/aristocrat/jdk1.8.0/jre/lib/jsse.jar:/home/aristocrat/jdk1.8.0/jre/lib/management-agent.jar:/home/aristocrat/jdk1.8.0/jre/lib/plugin.jar:/home/aristocrat/jdk1.8.0/jre/lib/resources.jar:/home/aristocrat/jdk1.8.0/jre/lib/rt.jar:/home/aristocrat/IdeaProjects/GridSim-Gui-Radha/out/production/GridSim-Gui-Radha:/home/aristocrat/IdeaProjects/GridSim-Gui-Radha/src/swt.jar:/home/aristocrat/idea-IC/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain GridSimGui
+/home/aristocrat/IdeaProjects/GridSim-Gui-Radha/test2
+Initialising...
+ACO_AND_PSO Used
+Finally, creates one Grid resource and stores the properties of a Grid resource named: g1
+
+ACO_AND_PSO Used
+Finally, creates one Grid resource and stores the properties of a Grid resource named: g2
+
+ACO_AND_PSO Used
+Finally, creates one Grid resource and stores the properties of a Grid resource named: g3
+
+Creating a grid user entity with name = u1, and id = 17
+Creating 2 Gridlets
+Creating a grid user entity with name = u2, and id = 20
+Creating 2 Gridlets
+Creating a grid user entity with name = u3, and id = 23
+Creating 2 Gridlets
+Creating a grid user entity with name = u4, and id = 26
+Creating 2 Gridlets
+Creating a grid user entity with name = u5, and id = 29
+Creating 2 Gridlets
+Creating a grid user entity with name = u6, and id = 32
+Creating 2 Gridlets
+Creating a grid user entity with name = u7, and id = 35
+Creating 2 Gridlets
+Creating a grid user entity with name = u8, and id = 38
+Creating 2 Gridlets
+Creating a grid user entity with name = u9, and id = 41
+Creating 2 Gridlets
+Creating a grid user entity with name = u10, and id = 44
+Creating 2 Gridlets
+Starting GridSim version 5.0
+Entities started.
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+There is 3 resources
+u4:Received ResourceCharacteristics from g1, with id = 5
+u4:Received ResourceCharacteristics from g3, with id = 13
+u6:Received ResourceCharacteristics from g1, with id = 5
+u4:Received ResourceCharacteristics from g2, with id = 9
+u4:Sending Gridlet_6 to g2 with id = 9 - 9
+u4:Sending Gridlet_7 to g3 with id = 13 - 13
+u3:Received ResourceCharacteristics from g1, with id = 5
+u6:Received ResourceCharacteristics from g3, with id = 13
+u3:Received ResourceCharacteristics from g3, with id = 13
+u7:Received ResourceCharacteristics from g1, with id = 5
+u6:Received ResourceCharacteristics from g2, with id = 9
+u6:Sending Gridlet_10 to g2 with id = 9 - 9
+u6:Sending Gridlet_11 to g1 with id = 5 - 5
+u7:Received ResourceCharacteristics from g3, with id = 13
+u3:Received ResourceCharacteristics from g2, with id = 9
+u3:Sending Gridlet_4 to g2 with id = 9 - 9
+u3:Sending Gridlet_5 to g2 with id = 9 - 9
+u1:Received ResourceCharacteristics from g1, with id = 5
+u1:Received ResourceCharacteristics from g3, with id = 13
+u7:Received ResourceCharacteristics from g2, with id = 9
+u7:Sending Gridlet_12 to g2 with id = 9 - 9
+u2:Received ResourceCharacteristics from g1, with id = 5
+u7:Sending Gridlet_13 to g1 with id = 5 - 5
+u5:Received ResourceCharacteristics from g1, with id = 5
+u2:Received ResourceCharacteristics from g3, with id = 13
+u1:Received ResourceCharacteristics from g2, with id = 9
+u1:Sending Gridlet_0 to g2 with id = 9 - 9
+u1:Sending Gridlet_1 to g1 with id = 5 - 5
+u2:Received ResourceCharacteristics from g2, with id = 9
+u2:Sending Gridlet_2 to g2 with id = 9 - 9
+u2:Sending Gridlet_3 to g1 with id = 5 - 5
+u10:Received ResourceCharacteristics from g1, with id = 5
+u5:Received ResourceCharacteristics from g3, with id = 13
+u9:Received ResourceCharacteristics from g1, with id = 5
+u10:Received ResourceCharacteristics from g3, with id = 13
+u5:Received ResourceCharacteristics from g2, with id = 9
+u5:Sending Gridlet_8 to g2 with id = 9 - 9
+u5:Sending Gridlet_9 to g2 with id = 9 - 9
+u9:Received ResourceCharacteristics from g3, with id = 13
+u10:Received ResourceCharacteristics from g2, with id = 9
+u10:Sending Gridlet_18 to g3 with id = 13 - 13
+u10:Sending Gridlet_19 to g2 with id = 9 - 9
+u8:Received ResourceCharacteristics from g1, with id = 5
+u8:Received ResourceCharacteristics from g3, with id = 13
+u9:Received ResourceCharacteristics from g2, with id = 9
+u9:Sending Gridlet_16 to g3 with id = 13 - 13
+u9:Sending Gridlet_17 to g2 with id = 9 - 9
+u8:Received ResourceCharacteristics from g2, with id = 9
+u8:Sending Gridlet_14 to g3 with id = 13 - 13
+u8:Sending Gridlet_15 to g3 with id = 13 - 13
+u7:Receiving Gridlet 12  that cost 694.3333333333333 started at 318.28 ended at 665.4466666666666
+u1:Receiving Gridlet 1  that cost 697.6666666666666 started at 372.84 ended at 721.6733333333333
+u4:Receiving Gridlet 7  that cost 1034.0 started at 162.20000000000002 ended at 679.2
+u9:Receiving Gridlet 16  that cost 697.0 started at 579.8800000000001 ended at 928.3800000000001
+u4:Receiving Gridlet 6  that cost 1025.6666666666665 started at 159.8 ended at 672.6333333333333
+u4:%%%% Exiting body()
+u6:Receiving Gridlet 11  that cost 1353.3333333333335 started at 214.04 ended at 890.7066666666667
+u3:Receiving Gridlet 4  that cost 840.9999999999997 started at 264.59999999999997 ended at 685.0999999999998
+u10:Receiving Gridlet 18  that cost 1028.6666666666665 started at 528.2 ended at 1042.5333333333333
+u1:Receiving Gridlet 0  that cost 689.3333333333333 started at 369.64 ended at 714.3066666666666
+u1:%%%% Exiting body()
+u2:Receiving Gridlet 3  that cost 1027.0 started at 424.68 ended at 938.1800000000001
+u8:Receiving Gridlet 15  that cost 1026.6666666666667 started at 635.0000000000001 ended at 1148.3333333333335
+u6:Receiving Gridlet 10  that cost 1026.333333333333 started at 212.44 ended at 725.6066666666666
+u6:%%%% Exiting body()
+u7:Receiving Gridlet 13  that cost 1359.6666666666665 started at 320.67999999999995 ended at 1000.5133333333332
+u7:%%%% Exiting body()
+u8:Receiving Gridlet 14  that cost 1366.6666666666665 started at 632.6000000000001 ended at 1315.9333333333334
+u8:%%%% Exiting body()
+u3:Receiving Gridlet 5  that cost 1037.6666666666663 started at 269.4 ended at 788.2333333333331
+u3:%%%% Exiting body()
+u9:Receiving Gridlet 17  that cost 693.0 started at 582.0400000000001 ended at 928.5400000000001
+u9:%%%% Exiting body()
+u2:Receiving Gridlet 2  that cost 1026.0 started at 422.28000000000003 ended at 935.28
+u2:%%%% Exiting body()
+u5:Receiving Gridlet 8  that cost 1022.6666666666666 started at 474.76000000000005 ended at 986.0933333333334
+u10:Receiving Gridlet 19  that cost 1027.0000000000002 started at 529.8000000000001 ended at 1043.3000000000002
+u10:%%%% Exiting body()
+u5:Receiving Gridlet 9  that cost 1363.666666666667 started at 477.16 ended at 1158.9933333333336
+u5:%%%% Exiting body()
+GridInformationService: Notify all GridSim entities for shutting down.
+Sim_system: No more future events
+Gathering simulation data.
+Simulation completed.
+

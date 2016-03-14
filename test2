@@ -1,0 +1,248 @@
+[Grid g1]
+
+[Grid g2]
+
+[Grid g3]
+
+[Machine m1]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g1
+
+[Machine m2]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g1
+
+[Machine m3]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g2
+
+[Machine m4]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g2
+
+[Machine m5]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g3
+
+[Machine m6]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g3
+
+[User u1]
+
+[User u2]
+
+[User u3]
+
+[User u4]
+
+[User u5]
+
+[User u6]
+
+[User u7]
+
+[User u8]
+
+[User u9]
+
+[User u10]
+
+[Job j1]
+instructions 4
+count 1
+inputSize 16
+outputSize 2048
+growthRate None
+growthFactor 4.0
+assignTo u1
+
+[Job j2]
+instructions 4
+count 1
+inputSize 18
+outputSize 3056
+growthRate None
+growthFactor 4.0
+assignTo u2
+
+[Job j3]
+instructions 4
+count 1
+inputSize 15
+outputSize 2504
+growthRate None
+growthFactor 4.0
+assignTo u3
+
+[Job j4]
+instructions 4
+count 1
+inputSize 17
+outputSize 3056
+growthRate None
+growthFactor 4.0
+assignTo u4
+
+[Job j5]
+instructions 4
+count 1
+inputSize 18
+outputSize 3046
+growthRate None
+growthFactor 4.0
+assignTo u5
+
+[Job j6]
+instructions 4
+count 1
+inputSize 19
+outputSize 3056
+growthRate None
+growthFactor 4.0
+assignTo u6
+
+[Job j7]
+instructions 5
+count 1
+inputSize 40
+outputSize 2048
+growthRate None
+growthFactor 6.0
+assignTo u1
+
+[Job j8]
+instructions 5
+count 1
+inputSize 30
+outputSize 3046
+growthRate None
+growthFactor 6.0
+assignTo u2
+
+[Job j9]
+instructions 5
+count 1
+inputSize 60
+outputSize 3048
+growthRate None
+growthFactor 5.0
+assignTo u3
+
+[Job j10]
+instructions 5
+count 1
+inputSize 30
+outputSize 3067
+growthRate None
+growthFactor 6.0
+assignTo u4
+
+[Job j11]
+instructions 5
+count 1
+inputSize 30
+outputSize 4056
+growthRate None
+growthFactor 4.0
+assignTo u5
+
+[Job j12]
+instructions 4
+count 1
+inputSize 20
+outputSize 4036
+growthRate None
+growthFactor 5.0
+assignTo u6
+
+[Job j13]
+instructions 5
+count 1
+inputSize 30
+outputSize 2048
+growthRate None
+growthFactor 4.0
+assignTo u7
+
+[Job j14]
+instructions 4
+count 1
+inputSize 30
+outputSize 4045
+growthRate None
+growthFactor 3.0
+assignTo u7
+
+[Job j15]
+instructions 4
+count 1
+inputSize 23
+outputSize 4067
+growthRate None
+growthFactor 3.0
+assignTo u8
+
+[Job j16]
+instructions 4
+count 1
+inputSize 30
+outputSize 3046
+growthRate None
+growthFactor 3.0
+assignTo u8
+
+[Job j17]
+instructions 4
+count 1
+inputSize 20
+outputSize 2067
+growthRate None
+growthFactor 4.0
+assignTo u9
+
+[Job j18]
+instructions 4
+count 1
+inputSize 27
+outputSize 2048
+growthRate None
+growthFactor 3.0
+assignTo u9
+
+[Job j19]
+instructions 5
+count 1
+inputSize 30
+outputSize 3045
+growthRate None
+growthFactor 5.0
+assignTo u10
+
+[Job j20]
+instructions 5
+count 1
+inputSize 20
+outputSize 3056
+growthRate None
+growthFactor 5.0
+assignTo u10
+

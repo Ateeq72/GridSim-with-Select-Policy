@@ -1,0 +1,101 @@
+
+
+========== OUTPUT : u1 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    0    j1    SUCCESS        5        1035.0    345.0
+    1    j7    SUCCESS        5        1047.0    349.0
+-------------------------------------
+Total Cost: 2082
+Average Time: 347.0
+
+
+
+========== OUTPUT : u2 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    3    j8    SUCCESS        5        1542.0    514.0
+    2    j2    SUCCESS        13        1542.0    514.0
+-------------------------------------
+Total Cost: 3084
+Average Time: 514.0
+
+
+
+========== OUTPUT : u3 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    4    j3    SUCCESS        5        1262.9999999999998    420.99999999999994
+    5    j9    SUCCESS        9        1557.0    519.0
+-------------------------------------
+Total Cost: 2819
+Average Time: 470.0
+
+
+
+========== OUTPUT : u4 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    6    j4    SUCCESS        13        1539.0    513.0
+    7    j10    SUCCESS        9        1554.0    518.0
+-------------------------------------
+Total Cost: 3093
+Average Time: 515.5
+
+
+
+========== OUTPUT : u5 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    8    j5    SUCCESS        13        1535.9999999999998    511.99999999999994
+    9    j11    SUCCESS        9        2046.0    682.0
+-------------------------------------
+Total Cost: 3581
+Average Time: 597.0
+
+
+
+========== OUTPUT : u6 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    10    j6    SUCCESS        9        1542.0    514.0
+    11    j12    SUCCESS        9        2031.0    677.0
+-------------------------------------
+Total Cost: 3573
+Average Time: 595.5
+
+
+
+========== OUTPUT : u7 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    12    j13    SUCCESS        13        1044.0    348.0
+    13    j14    SUCCESS        13        2039.9999999999995    679.9999999999999
+-------------------------------------
+Total Cost: 3083
+Average Time: 514.0
+
+
+
+========== OUTPUT : u8 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    15    j16    SUCCESS        5        1542.0    514.0
+    14    j15    SUCCESS        9        2049.0    683.0
+-------------------------------------
+Total Cost: 3591
+Average Time: 598.5
+
+
+
+========== OUTPUT : u9 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    17    j18    SUCCESS        13        1041.0000000000002    347.00000000000006
+    16    j17    SUCCESS        5        1047.0    349.0
+-------------------------------------
+Total Cost: 2088
+Average Time: 348.0
+
+
+
+========== OUTPUT : u10 =========
+Gridlet ID    Name    STATUS    Resource ID    Cost    Time Taken
+    19    j20    SUCCESS        5        1542.0000000000005    514.0000000000001
+    18    j19    SUCCESS        9        1542.0    514.0
+-------------------------------------
+Total Cost: 3084
+Average Time: 514.0
+
+

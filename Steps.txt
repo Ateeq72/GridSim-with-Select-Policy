@@ -1,0 +1,129 @@
+I will show you how to run the code and the algo used....
+
+so you can basically run the project by clicking on the play button!..
+
+I have made this GUI to work with the GridSIM!. in which you can basically select the required dataset i.e. enter and select the 
+algo you wanna use and then click Run! ..
+
+so i have now added 4 grids..
+
+This windows is to create Jobs which will later assigned to the users..
+
+As you can see i have already added 2 jobs, no i will explain what is what!..
+
+Obviously its the name of the job! 
+
+
+No. of instruction we may requires or will be made!..
+
+The both are the starting and finishing memory of 
+
+the data which needs to processed!.
+
+here 56MB is the starting memory and 
+
+2048MB is th finishing or ending!..
+
+
+No. of jobs this job actually want to execute!
+
+This is required because we need assign in which rate the jobs has to be done!!
+
+
+that shows the current info about the data used or not used.
+
+
+Now we will add users..
+
+
+Now we need to add machines!..
+
+In this 
+
+Its the no. of instructions this machine can handle!!
+
+
+No. of processors it will have!
+
+No. of machine jobs it can handle!!..
+
+and finally the RAM size!..
+
+we got 4 grids hence each grid should have atleast one machine! 
+
+hence 4 Machines
+
+Now we actually need to assign stuff!
+
+So, we added m1 (Machine) to g1 (Grid)
+
+
+Now we have assigned each machine to grid, making sure that no machine is left!
+
+
+Now we have assigned jobs for each user!..
+
+Finally we have selected the Policy we gonna use..
+
+Now Run!... :D
+
+This is the generated output!
+
+we may use this for verification, validation kinda stuff..
+
+Now we can see its got the Policy we used!
+
+and all the information we may require to actually see how the job was done!!
+
+And its Done!!
+
+Now lets try with different Policy!
+
+Now as the creation of all the data and stuff is time hogging we may export/import the same for all the policies used..
+
+I have already configured the same!
+
+Now all left to do is select Policies!! :D
+
+As you can see now we have used the proposed Policy Algo!.. 
+
+Thank You!! :D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
