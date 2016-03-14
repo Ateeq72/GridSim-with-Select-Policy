@@ -547,7 +547,7 @@ public class GridData {
     			nextMachineID++;
     		}
     	}
-		int rap = 2;
+		int rap = selectPolicy.selectedPolicy;
 
 		if (rap == 2) {
 			System.out.println("ACO_AND_PSO Used");
@@ -556,7 +556,7 @@ public class GridData {
 					grid.getTimeZone(), grid.getCostACOPSO());
 		}
 		else if (rap == 0){
-			System.out.println("TIME_SHARE Used");
+			System.out.println("TIME_SHARED Used");
 			resConfig = new ResourceCharacteristics(
 					grid.getArch(), grid.getOS(), mList, ResourceCharacteristics.TIME_SHARED,
 					grid.getTimeZone(), grid.getCost());

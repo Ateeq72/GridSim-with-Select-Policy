@@ -1,76 +1,114 @@
-[Grid 1]
+[Grid g1]
 
-[Grid 2]
+[Grid g2]
+
+[Grid g3]
 
 [Machine m1]
-mips 4
-count 2
-numProcs 8
+mips 6
+count 6
+numProcs 6
 memSize 8048
-assignTo 1
+assignTo g1
 
 [Machine m2]
-mips 1
-count 4
-numProcs 4
+mips 6
+count 6
+numProcs 6
 memSize 8048
-assignTo 1
+assignTo g1
 
 [Machine m3]
-mips 5
-count 4
-numProcs 8
+mips 6
+count 6
+numProcs 6
 memSize 8048
-assignTo 2
+assignTo g2
 
 [Machine m4]
-mips 4
-count 2
-numProcs 8
+mips 6
+count 6
+numProcs 6
 memSize 8048
-assignTo 2
+assignTo g2
 
-[User 1]
+[Machine m5]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g3
 
-[User 2]
+[Machine m6]
+mips 6
+count 6
+numProcs 6
+memSize 8048
+assignTo g3
 
-[User 3]
+[User u1]
 
-[User 4]
+[User u2]
 
-[Job 1]
-instructions 2
-count 1
-inputSize 12
-outputSize 14
-growthRate None
-growthFactor 2.0
-assignTo 1
+[User u3]
 
-[Job 2]
-instructions 3
-count 1
-inputSize 12
-outputSize 2
-growthRate None
-growthFactor 3.0
-assignTo 2
+[User u4]
 
-[Job 3]
+[User u5]
+
+[User u6]
+
+[Job j1]
 instructions 4
 count 1
-inputSize 1024
-outputSize 23
+inputSize 16
+outputSize 2048
 growthRate None
 growthFactor 4.0
-assignTo 3
+assignTo u1
 
-[Job 4]
-instructions 7
+[Job j2]
+instructions 4
 count 1
-inputSize 234
-outputSize 12
+inputSize 18
+outputSize 3056
 growthRate None
-growthFactor 2.0
-assignTo 4
+growthFactor 4.0
+assignTo u2
+
+[Job j3]
+instructions 4
+count 1
+inputSize 15
+outputSize 2504
+growthRate None
+growthFactor 4.0
+assignTo u3
+
+[Job j4]
+instructions 4
+count 1
+inputSize 17
+outputSize 3056
+growthRate None
+growthFactor 4.0
+assignTo u4
+
+[Job j5]
+instructions 4
+count 1
+inputSize 18
+outputSize 3046
+growthRate None
+growthFactor 4.0
+assignTo u5
+
+[Job j6]
+instructions 4
+count 1
+inputSize 19
+outputSize 3056
+growthRate None
+growthFactor 4.0
+assignTo u6
 

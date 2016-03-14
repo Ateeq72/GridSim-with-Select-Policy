@@ -701,6 +701,16 @@ public class Gridlet
         return resList_.get(index_).submissionTime;
     }
 
+    public double getAntDepartTime()
+    {
+        if (index_ == -1) {
+            return 0.0;
+        }
+
+        return resList_.get(index_).submissionTime ;
+    }
+
+
     /**
      * Sets the execution start time of this Gridlet inside a GridResource.
      * <b>NOTE:</b> With new functionalities, such as being able to cancel /
@@ -1153,6 +1163,9 @@ public class Gridlet
      */
     public double getFinishTime() {
         return finishTime_;
+    }
+    public double getAntArriveTime(){
+        return finishTime_ - 150;
     }
 
     ////////////////////////// PROTECTED METHODS //////////////////////////////

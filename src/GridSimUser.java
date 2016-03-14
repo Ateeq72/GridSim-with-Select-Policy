@@ -176,6 +176,9 @@ public class GridSimUser extends GridSim
         int totalCost = 0;
         double timeTaken = 0;
         double totalTime = 0;
+        double antsArriveTime = 0;
+        double antsdepartTime = 0;
+
         
         text += ("\n\n========== OUTPUT : " + this.name_ + " =========\n");
         text += ("Gridlet ID" + indent + "Name" + indent + "STATUS" + indent +
@@ -189,13 +192,19 @@ public class GridSimUser extends GridSim
 
             if (gridlet.getGridletStatus() == Gridlet.SUCCESS)
             	text += ("SUCCESS");
-            timeTaken = gridlet.getFinishTime()-gridlet.getSubmissionTime();
-            text += ( indent + indent + gridlet.getResourceID() +
-                    indent + indent + gridlet.getProcessingCost() + indent + timeTaken +"\n");
-            totalCost += gridlet.getProcessingCost();
-            totalTime += timeTaken;
-            
-            
+            if (selectPolicy.selectedPolicy == 2) {
+                antsArriveTime = gridlet.getAntArriveTime();
+                antsdepartTime = gridlet.getAntDepartTime();
+                timeTaken = antsArriveTime - antsdepartTime ;
+            }
+            else {
+                timeTaken = gridlet.getFinishTime() - gridlet.getSubmissionTime();
+            }
+                text += (indent + indent + gridlet.getResourceID() +
+                        indent + indent + gridlet.getProcessingCost() + indent + timeTaken + "\n");
+                totalCost += gridlet.getProcessingCost();
+                totalTime += timeTaken;
+
         }
         text += "-------------------------------------\nTotal Cost: " +  totalCost ;
         text += "\nAverage Time: " + totalTime/(double)size  + "\n\n";
